@@ -5,6 +5,8 @@ body {
   margin: 0;
   padding: 0 1em;
   background-image: url(/images/bg04.jpg), linear-gradient(to bottom, rgb(12,32,26) 50%, #535145);
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 main {
   background: #FFF;
