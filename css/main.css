@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 1em;
+  background-image: url(/images/bg04.jpg), linear-gradient(to bottom, rgb(12,32,26) 50%, #535145);
+}
+main {
+  background: #FFF;
+}
+p {
+  text-align: justify;
+	font-size: 18px;
+}
+.center {
+	text-align: center;
+}
+.right {
+	text-align: right;
+}
