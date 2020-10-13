@@ -1,4 +1,6 @@
 # zen-do.ru
-Static copy of the best Russian web site on Zen
+The static copy of the best Russian web site on Zen.
 
-When https://zen-do.ru/ does not work, see https://s.zen-do.ru/
+When the main site https://zen-do.ru/ does not work, come here:
+
+# https://s.zen-do.ru/
