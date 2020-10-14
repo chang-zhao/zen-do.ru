@@ -10,4 +10,5 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: bash wrap.sh
-      - run: git pull
+      - run: git commit . -m "Wrapping"
+      - run: git push origin main
