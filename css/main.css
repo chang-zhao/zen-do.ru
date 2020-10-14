@@ -57,7 +57,8 @@ p {
 	font-size: 18px;
 }
 img {
-  max-width: 90%;
+  max-width: 95%;
+  height: auto;
 }
 .center {
 	text-align: center;
