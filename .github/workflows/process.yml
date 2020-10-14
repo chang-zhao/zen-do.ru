@@ -10,5 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: bash wrap.sh
+      - run: git config user.email "q21@bk.ru"
+      - run: git config user.name "chang-zhao"
       - run: git commit . -m "Wrapping"
       - run: git push origin main
