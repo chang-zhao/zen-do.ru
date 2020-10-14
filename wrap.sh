@@ -7,7 +7,7 @@ do
     fi
 done
 echo "Wrap files:";
-find ./in -name "*" | while read i;
+find ./in -type f -name "*" | while read i;
 do
     echo "${i/in/out}";
     cat ./tpl/header.html "$i" ./tpl/footer.html >"${i/in/out}"
