@@ -2,7 +2,7 @@ name: process
 on:
   push:
     paths:
-    - 'in/**.html'
+    - 'in/**'
 jobs:
   wrap:
     name: Wrapping a text in the template
