@@ -2,13 +2,12 @@ name: process
 on:
   push:
     paths:
-    - 'in/**'
+    - 'in/**.html'
 jobs:
   wrap:
     name: Wrapping a text in the template
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-#      - run: cat out/head.html > pack/**
-#      - run: cat in/** >> pack/**
-#      - run: cat out/foot.html >> pack/**
+      - run: bash wrap.sh
+      - run: git pull
