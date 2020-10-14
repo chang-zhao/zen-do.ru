@@ -4,6 +4,9 @@
 h1, h2, h3 {
   font-family: "Liberation Serif", Georgia, "Times New Roman", serif;
 }
+h1 {
+  text-align: center;
+}
 html, body {
   margin: 0;
   padding: 0;
