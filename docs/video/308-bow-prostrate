@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <title>Русское Дзендо</title>
+  <meta name="description" content="Дзенская практика на русском языке">
+  <meta name="author" content="Постоянное Озарение">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+<nav>
+<a href="/">Что</a>
+<a href="/q-a">Вопросы</a>
+<a href="/guide">Путеводитель</a>
+<a href="/texts">Тексты</a>
+<a href="/video">Видео</a>
+<a href="/blog">Дневник</a>
+</nav>
+<main><span id="language"></span> <span id="modified">v. 2019-08-16</span>
+<h2 id="author">Постоянное Озарение</h2>
+<h1 id="title">Поклоны и простирания</h1>
+<h3 class="right"><a href="/teachers/100-illumination">Постоянное Озарение</a></h3>
+<h1 class="center">Поклоны и простирания</h1>
+<p class="center">используются для регулировки тела и ума. См. также <a href="/texts/9-prostra">Четыре вида простираний</a></p>
+<p class="center"><iframe src="https://www.youtube.com/embed/03bbfgtdUqg?rel=0" width="640" height="480" allowfullscreen="allowfullscreen"></iframe></p>
+<p> </p></main><a class="top" href="#top">▲</a>
+</body>
+</html>

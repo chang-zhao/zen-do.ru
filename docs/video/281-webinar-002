@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <title>Русское Дзендо</title>
+  <meta name="description" content="Дзенская практика на русском языке">
+  <meta name="author" content="Постоянное Озарение">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+<nav>
+<a href="/">Что</a>
+<a href="/q-a">Вопросы</a>
+<a href="/guide">Путеводитель</a>
+<a href="/texts">Тексты</a>
+<a href="/video">Видео</a>
+<a href="/blog">Дневник</a>
+</nav>
+<main><span id="language"></span> <span id="modified">v. 2018-08-02</span>
+<h2 id="author">Постоянное Озарение</h2>
+<h1 id="title">Вебинар: Осознанность и природа будды</h1>
+<h1 style="text-align: center;"><a title="https://ddm.zen-do.ru/video/webinar-002" href="https://ddm.zen-do.ru/video/webinar-002"><em>Вебинар: Осознанность и природа будды</em></a></h1>
+<p style="text-align: center;">2 августа 2018 года</p>
+<p style="text-align: center;">Длительность - 40 мин.</p></main><a class="top" href="#top">▲</a>
+</body>
+</html>

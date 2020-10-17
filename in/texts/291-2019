@@ -1,0 +1,4 @@
+<main><span id="language"></span> <span id="modified">v. 2018-12-26</span>
+<h2 id="author">Постоянное Озарение</h2>
+<h1 id="title">Буддийский календарь на 2019 год</h1>
+{loadmodule mod_calendar,Calendar}</main>

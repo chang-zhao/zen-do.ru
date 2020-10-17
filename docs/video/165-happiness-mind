@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <title>Русское Дзендо</title>
+  <meta name="description" content="Дзенская практика на русском языке">
+  <meta name="author" content="Постоянное Озарение">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+<nav>
+<a href="/">Что</a>
+<a href="/q-a">Вопросы</a>
+<a href="/guide">Путеводитель</a>
+<a href="/texts">Тексты</a>
+<a href="/video">Видео</a>
+<a href="/blog">Дневник</a>
+</nav>
+<main><span id="language"></span> <span id="modified">v. 2019-08-16</span>
+<h2 id="author">Ньема</h2>
+<h1 id="title">Счастье – в твоём уме</h1>
+<h3 style="text-align: right;">Достопочтенная Ньема</h3>
+<h1 style="text-align: center;">Счастье – в твоём уме</h1>
+<p style="text-align: center;">(русские субтитры)</p>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/xnLoToJVQH4?rel=0&amp;ecver=1" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p></main><a class="top" href="#top">▲</a>
+</body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <title>Русское Дзендо</title>
+  <meta name="description" content="Дзенская практика на русском языке">
+  <meta name="author" content="Постоянное Озарение">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+<nav>
+<a href="/">Что</a>
+<a href="/q-a">Вопросы</a>
+<a href="/guide">Путеводитель</a>
+<a href="/texts">Тексты</a>
+<a href="/video">Видео</a>
+<a href="/blog">Дневник</a>
+</nav>
+<main><span id="language"></span> <span id="modified">v. 2019-01-31</span>
+<h2 id="author">Постоянное Озарение</h2>
+<h1 id="title">Шен Янь</h1>
+<p style="text-align: justify;">Чаньский <img style="float: right; margin-right: 12px; margin-left: 12px;" src="/images/bios1.jpg" alt="" width="320" height="352" />Мастер Шен Янь (1930-2009) в свои поздние годы производил впечатление глубокого спокойствия и мягкости, невесомости, но в то же время ошеломляюще реального присутствия.</p>
+<p style="text-align: justify;">Он мог стремительно уйти в ответ на глупый вопрос и так же решительно подойти, когда видел, что может принести пользу.</p>
+<p style="text-align: justify;">Безмятежный и быстрый, он был, как гора, где поют птицы и ветер колышет ветви деревьев.</p>
+<p style="text-align: justify;">Его речь вызывала уважение своей точностью, краткостью и ясностью. Богатый опыт практики и пытливость учёного помогали Шен Яню осознавать самые важные вещи и легко объяснять их нам.</p>
+<p style="text-align: justify;">Автор более сотни книг, учитель нескольких сотен тысяч человек в двух десятках стран, основатель выдающихся научных, учебных и общественных центров, доктор буддийской литературы и влиятельный духовный лидер. Всё это может казаться достижениями, с мирской точки зрения, но, вероятно, Бодхидхарма сказал бы: "Никаких достижений".</p>
+<p style="text-align: justify;">Просто человек, который позаботился узнать свою истинную природу. И жил в соответствии с ней. Это не исключение и не что-то выдающееся. Совершенно нормальный, совершенно обычный человек.</p>
+<p> </p>
+<hr />
+<blockquote>
+<p>Беседы Мастера Го Жу, включающие воспоминания о его учёбе у Шен Яня:</p>
+<p> </p>
+<blockquote>
+<p><a href="/texts/37-difficult" rel="alternate">Трудная практика</a><br /> <a href="/texts/3-stages" rel="alternate">Понимание ступеней чаньской практики</a></p>
+</blockquote>
+<p> </p>
+<p>Рассказы Мастера Шен Яня о своей учёбе и стиле преподавания:</p>
+<p> </p>
+<blockquote>
+<p><a href="/texts/45-autobio" rel="alternate">Автобиография Мастера Шен Яня</a><br /> <a href="/texts/43-biogmonk" rel="alternate">Биография китайского монаха</a><br /> <a href="/texts/46-monastery" rel="alternate">Жизнь в чаньском монастыре</a><br /><a title="Моя практика и передача" href="/texts/253-transmission" rel="alternate">Моя практика и передача</a></p>
+</blockquote>
+<p> </p>
+<p>На сайте <a title="Русское Дзендо" href="https://zen-do.ru/" rel="alternate">Zen-Do.Ru</a> есть следующие работы Мастера Шен Яня:</p>
+<p> </p>
+<blockquote>{articles cat:title:texts}{if:created_by_alias='Шен Янь'}- {link}{title}{/link}<br />{/if}{/articles} {articles cat:title:video}{if:created_by_alias='Шен Янь'}- {link}{title}{/link} <i>(видео)</i><br />{/if}{/articles}</blockquote>
+</blockquote>
+<hr />
+<p style="text-align: right;"><i>Постоянное Озарение, 2015</i></p></main><a class="top" href="#top">▲</a>
+</body>
+</html>

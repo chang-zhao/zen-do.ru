@@ -5,7 +5,7 @@
   <title>Русское Дзендо</title>
   <meta name="description" content="Дзенская практика на русском языке">
   <meta name="author" content="Постоянное Озарение">
-  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="/css/main.css">
 </head>
 <body>
 <nav>
@@ -16,240 +16,241 @@
 <a href="/video">Видео</a>
 <a href="/blog">Дневник</a>
 </nav>
-<main id="main-content">
-<div class="item-page">
-<h1>О нас</h1>
-<hr>
-<p>Некоторые отзывы&nbsp;– (1) <strong>из старой гостевой книги</strong>:</p>
-<hr>
-<p>&nbsp;</p>
+<main><span id="language"></span> <span id="modified">v. 2019-12-12</span>
+<h2 id="author">Постоянное Озарение</h2>
+<h1 id="title">О нас</h1>
+<h1 style="text-align: center;">О нас</h1>
+<hr />
+<p>Некоторые отзывы – (1) <strong>из старой гостевой книги</strong>:</p>
+<hr />
+<p> </p>
 <p>Хороший сайт… заставляет подумать… а думать полезно…</p>
-<p class="right"><em>DemonZla (05.07.2002)</em></p>
+<p style="text-align: right;"><em>DemonZla (05.07.2002)</em></p>
 <p>privet na 4istata sangha, tozi sait e super</p>
-<p class="right"><em>milen (30.01.2003)</em></p>
+<p style="text-align: right;"><em>milen (30.01.2003)</em></p>
 <p>И крайняя благодарность человеку делающему работу по распространению Света Дхармы в Интернете!</p>
-<p class="right"><em>mu yu (11.02.2005)</em></p>
-<p>очень добрый сайт, спасибо тебе!!!<br> сразу настроение улучшил. даже подумала, что всё будет хорошо, сразу и надолго :)<br> пусть тебе тоже прямо сейчас станет тепло и хорошо, как и мне! детство, конечно, но очень тебе этого желаю.. )))</p>
-<p class="right"><em>Аня :) (16.04.2005)</em></p>
+<p style="text-align: right;"><em>mu yu (11.02.2005)</em></p>
+<p>очень добрый сайт, спасибо тебе!!!<br /> сразу настроение улучшил. даже подумала, что всё будет хорошо, сразу и надолго :)<br /> пусть тебе тоже прямо сейчас станет тепло и хорошо, как и мне! детство, конечно, но очень тебе этого желаю.. )))</p>
+<p style="text-align: right;"><em>Аня :) (16.04.2005)</em></p>
 <p>Вот наконец и попала на Ваш сайт. Прочитала почти всё, действительно, очень много интересного для себя почерпнула.</p>
-<p class="right"><em>Машуля (06.06.2005)</em></p>
+<p style="text-align: right;"><em>Машуля (06.06.2005)</em></p>
 <p>С огромной пользой для себя и всех чувствующих существ прочёл текст «<a title="Упражнение ума в не-эгоистичности" href="/texts/24-lojong" rel="alternate">Упражнение ума в не-эгоистичности</a>» (автор Постоянное Озарение), опубликованный на Вашем сайте.</p>
 <p>Спасибо большое за вашу заботу о просветлении всех живых существ.</p>
-<p class="right"><em>AndreiCH (07.06.2005)</em></p>
-<p>Понравился сайт :)<br> Заходите на мой, Постоянное Озарение, очень вам буду рад….</p>
-<p class="right"><em>Oleg (08.06.2005)</em></p>
+<p style="text-align: right;"><em>AndreiCH (07.06.2005)</em></p>
+<p>Понравился сайт :)<br /> Заходите на мой, Постоянное Озарение, очень вам буду рад….</p>
+<p style="text-align: right;"><em>Oleg (08.06.2005)</em></p>
 <p>Хороший и интересный сайт! Надо будет «подружить» наши сайты:)</p>
-<p class="right"><em>Takeda (07.07.2005)</em></p>
+<p style="text-align: right;"><em>Takeda (07.07.2005)</em></p>
 <p>Сайт у вас нужный. Продолжайте!</p>
-<p class="right"><em>Eremei (19.08.2005)</em></p>
+<p style="text-align: right;"><em>Eremei (19.08.2005)</em></p>
 <p>Спасибо, что ты есть.</p>
-<p class="right"><em>(24.02.2009)</em></p>
+<p style="text-align: right;"><em>(24.02.2009)</em></p>
 <p>спасибо!</p>
-<p class="right"><em>(05.02.2010)</em></p>
+<p style="text-align: right;"><em>(05.02.2010)</em></p>
 <p>Очень впечатляют Ханьшань Децин и Шен Янь. Читаю и перечитываю их труды каждый день по многу раз. Может, у Вас есть какой совет для меня?</p>
-<p class="right"><em>Виталий (20.06.2011)</em></p>
+<p style="text-align: right;"><em>Виталий (20.06.2011)</em></p>
 <p>Спасибо огромное! Очень благодарен! Даже не знаю, как Вас благодарить! Спасибо карме, что свела меня с Вами!</p>
-<p class="right"><em>Виталий (22.06.2011)</em><br><br>&nbsp;</p>
-<hr>
-<p class="left"><strong>(2) Некоторые более новые отзывы (2014-2018)</strong>:</p>
-<hr>
+<p style="text-align: right;"><em>Виталий (22.06.2011)</em><br /><br /> </p>
+<hr />
+<p style="text-align: left;"><strong>(2) Некоторые более новые отзывы (2014-2018)</strong>:</p>
+<hr />
 <p>Thank you for helping me out in a moment, another moment, of distress!</p>
 <p>I look forward to our continued correspondence!</p>
-<p class="right"><em>John (02.09.2014)</em></p>
+<p style="text-align: right;"><em>John (02.09.2014)</em></p>
 <p>Спасибо Вам за действенную помощь. Бесконечно Вам благодарна.</p>
 <p>...Я буду рада помогать вам, чем смогу... Мне нужно было это ощущение, которое вы дали.</p>
 <p>...Вы как волшебник, возникший в нужный момент и в нужном месте.</p>
 <p>...Вот ты пришёл и я сразу увидела то, что мне было необходимо. И попала в Точку!..</p>
 <p>Благодарна тебе, что вся эта красота пришла ко мне.</p>
-<p class="right"><em>Инна (09.2014)</em></p>
+<p style="text-align: right;"><em>Инна (09.2014)</em></p>
 <p>All I can say is thank you for sharing this...</p>
-<p class="right"><em>Linda (10.2014)</em></p>
+<p style="text-align: right;"><em>Linda (10.2014)</em></p>
 <p>Nice answer, thank you.</p>
 <p>...I feel what you say, I hear where it's coming from.</p>
-<p class="right"><em>Ilona (28.11.2014)</em></p>
+<p style="text-align: right;"><em>Ilona (28.11.2014)</em></p>
 <p>Взгляд у тебя сильный, однако. :)</p>
 <p>...Изо всех шизотериков, что я видел, ты самый… ээ, адекватный и толковый. :)</p>
-<p class="right"><em>Феликс (11-12.2014)</em></p>
+<p style="text-align: right;"><em>Феликс (11-12.2014)</em></p>
 <p>I am intrigued by the topic you suggest.</p>
-<p class="right"><em>Jnanamati (13.01.2015)</em></p>
+<p style="text-align: right;"><em>Jnanamati (13.01.2015)</em></p>
 <p>Спасибо большое, это очень важная информация.</p>
-<p class="right"><em>Игорь (11.02.2015)</em></p>
-<p>...Спасибо, что интересуешься моими делами, мне это очень приятно.<br>Регулярно захожу читать ваш сайт и нашла тут много для себя интересного...<br>Отправила небольшое пожертвование. Буду и дальше поддерживать работу сайта, который приносит людям пользу. И, пожалуйста, не благодари меня, потому что мою благодарность к тебе и твоим единомышленникам невозможно окупить моими мизерными пожертвованиями.</p>
-<p>...Хотела бы отдельно сказать, как мне помогли материалы, расположенные на вашем сайте, читая которые, я... как для меня самой ни странно... обрела то спокойствие, к которому стремилась всё время...<br>Именно с того момента и началось мое выздоровление, в плане: ощущать себя самодостаточной, уверенной и независимой ни от каких ментальных установок личностью.<br>И то, насколько я сейчас изменилась по отношению к тому, что представляла собой раньше...<br>Эти изменения стали возможны, только когда я ознакомилась с теми статьями, что у вас есть на сайте.<br>Я очень внимательно их изучала. :)<br>Это, наверное, странно звучит... Потому что подобные материалы есть в интернете...<br>Но факт остается фактом... Те энергии, что транслируются через ваш сайт, оказались для меня целительскими.</p>
+<p style="text-align: right;"><em>Игорь (11.02.2015)</em></p>
+<p>...Спасибо, что интересуешься моими делами, мне это очень приятно.<br />Регулярно захожу читать ваш сайт и нашла тут много для себя интересного...<br />Отправила небольшое пожертвование. Буду и дальше поддерживать работу сайта, который приносит людям пользу. И, пожалуйста, не благодари меня, потому что мою благодарность к тебе и твоим единомышленникам невозможно окупить моими мизерными пожертвованиями.</p>
+<p>...Хотела бы отдельно сказать, как мне помогли материалы, расположенные на вашем сайте, читая которые, я... как для меня самой ни странно... обрела то спокойствие, к которому стремилась всё время...<br />Именно с того момента и началось мое выздоровление, в плане: ощущать себя самодостаточной, уверенной и независимой ни от каких ментальных установок личностью.<br />И то, насколько я сейчас изменилась по отношению к тому, что представляла собой раньше...<br />Эти изменения стали возможны, только когда я ознакомилась с теми статьями, что у вас есть на сайте.<br />Я очень внимательно их изучала. :)<br />Это, наверное, странно звучит... Потому что подобные материалы есть в интернете...<br />Но факт остается фактом... Те энергии, что транслируются через ваш сайт, оказались для меня целительскими.</p>
 <p>...Верно... Это более точное описание того, что ощутила - ощущение свободы под руководством сердца!</p>
 <p>...Полна восхищения тому, как чётко и обстоятельно вы показали, буквально пошагово, как и чего следует придерживаться... Прекрасные и крайне полезные для меня советы. Применяю их как ежедневный План к действию!.. Большое Вам спасибо за Ваше Служение!</p>
-<p class="right"><em>Инна (05.2015)</em></p>
+<p style="text-align: right;"><em>Инна (05.2015)</em></p>
 <p>По-моему, понял, как держать хуатоу. Спасибо.</p>
 <p>...ЗдОрово, ещё понятнее стало. Спасибо, Леша! :)</p>
-<p class="right"><em>Андрей (10-12.07.2015)</em></p>
+<p style="text-align: right;"><em>Андрей (10-12.07.2015)</em></p>
 <p>Хотел бы поблагодарить вас за вашу переводческую и организационную работу, которая начала приносить мне свою пользу, будучи ещё в формате сайта на хостинге “народа”. Ваша подборка источников - выше всякой похвалы, особенно выделяется адекватностью и очень близка мне по духу. Но всё это время как-то упускалось мной из виду, что с вами можно пообщаться по практике напрямую и получить наставления и объяснения некоторых пережитых духовных опытов.</p>
 <p>...Спасибо за развёрнутый ответ.</p>
 <p>Мне было бы интересно обсудить ваш взгляд на метод практики. В особенности, как использовать вместо традиционного хуатоу вопрос, центральный для данного периода твоей жизни.</p>
-<p class="right"><em>Денис (10.2015)</em></p>
+<p style="text-align: right;"><em>Денис (10.2015)</em></p>
 <p>Спасибо за ссылки по мероприятию.</p>
-<p class="right"><em>Илья (10.11.2015)</em></p>
+<p style="text-align: right;"><em>Илья (10.11.2015)</em></p>
 <p>Спасибо за поправки.</p>
-<p class="right"><em>Константин (29.11.2015)</em></p>
+<p style="text-align: right;"><em>Константин (29.11.2015)</em></p>
 <p>Thank you Alex, I am happy that my words are spreading around the world!..</p>
 <p>With gratitude,</p>
-<p class="right"><em>Anne (12.01.2016)</em></p>
+<p style="text-align: right;"><em>Anne (12.01.2016)</em></p>
 <p>Thank you again.</p>
-<p class="right"><em>Sandra (20.03.2016)</em></p>
+<p style="text-align: right;"><em>Sandra (20.03.2016)</em></p>
 <p>A thousand palms joined and bow for your efforts. Sincerely,</p>
-<p class="right"><em>Gilbert (20.03.2016)</em></p>
+<p style="text-align: right;"><em>Gilbert (20.03.2016)</em></p>
 <p>Thanks for your response. I reconnect you because you are promoting positive thoughts and behaviors. We need more people like you in the world.</p>
-<p class="right"><em>Alston (21.03.2016)</em></p>
+<p style="text-align: right;"><em>Alston (21.03.2016)</em></p>
 <p>Thank you for your emails.</p>
 <p>You gave me a lot of teachings to think and reflect. I appreciate it greatly.</p>
-<p class="right"><em>Bhikkhuni (21.03.2016)</em></p>
+<p style="text-align: right;"><em>Bhikkhuni (21.03.2016)</em></p>
 <p>Спасибо, что не забываешь меня.</p>
-<p class="right"><em>Вера (15.04.2016)</em></p>
+<p style="text-align: right;"><em>Вера (15.04.2016)</em></p>
 <p>Your words have an honesty that resonates through this limited medium ... still, I can feel the truth, and this is what I was hoping for. “You lost a contact with the deepest wish of your heart… It didn’t disapper, it remains out there,” and what is needed is to “start to refill the countours of sublime energy and inspriation.” Thank you.</p>
-<p class="right"><em>Katy (07.05.2016)</em></p>
+<p style="text-align: right;"><em>Katy (07.05.2016)</em></p>
 <p>That has really put that experience into proper view. Thank you so much. I will reread and study it further, terms...</p>
 <p>The BEST advice I've come across regarding this. Years looking for an answer. Thank you.</p>
-<p class="right"><em>William (14.08.2016)</em></p>
+<p style="text-align: right;"><em>William (14.08.2016)</em></p>
 <p>Love your choice of descriptions there: “partial perception” and “impulses” and “jumping monkey”. Accurate, and at the same time amusing.</p>
 <p>...I read your paper, it is expressing part of what dependent arising points to, but in a unique and different way. I like it.</p>
-<p class="right"><em>Linda (15-16.08.2016)</em></p>
+<p style="text-align: right;"><em>Linda (15-16.08.2016)</em></p>
 <p>Thank you.</p>
-<p class="right"><em>Swagato (17.08.2016)</em></p>
+<p style="text-align: right;"><em>Swagato (17.08.2016)</em></p>
 <p>Thank you. That was an amazing answer...</p>
-<p class="right"><em>Michelle (02.09.2016)</em></p>
+<p style="text-align: right;"><em>Michelle (02.09.2016)</em></p>
 <p>This sounds like a good idea. Thank you.</p>
-<p class="right"><em>Adam (07.09.2016)</em></p>
+<p style="text-align: right;"><em>Adam (07.09.2016)</em></p>
 <p>Nice! I liked the way you used the left and right cerebral hemisphere related information to answer the question…</p>
 <p>...That is another bit of very useful information.</p>
-<p class="right"><em>Ali (19.08.2016)</em></p>
+<p style="text-align: right;"><em>Ali (19.08.2016)</em></p>
 <p>Спасибо, Лёша!</p>
-<p class="right"><em>Ivan (28.10.2016)</em></p>
-<p>Thank you for your answer... I think what it ultimately comes down to exactly it&nbsp;– communicating and taking notice of detail rather than going for quick fixes which people don’t tend to use anyway because they are such frustration.</p>
-<p class="right"><em>Nadoukka (15.11.2016)</em></p>
+<p style="text-align: right;"><em>Ivan (28.10.2016)</em></p>
+<p>Thank you for your answer... I think what it ultimately comes down to exactly it – communicating and taking notice of detail rather than going for quick fixes which people don’t tend to use anyway because they are such frustration.</p>
+<p style="text-align: right;"><em>Nadoukka (15.11.2016)</em></p>
 <p>Wow!!! Thank you so much for sharing these techniques. Most of them I have never heard of in my life. I hope other people can read your comment and benefit from it as well. Thanks again Alex!!! :)</p>
-<p class="right"><em>(04.12.2016)</em></p>
+<p style="text-align: right;"><em>(04.12.2016)</em></p>
 <p>So, so beautifully replied... Thank you so much...</p>
-<p class="right"><em>Gopika (15.12.2016)</em></p>
+<p style="text-align: right;"><em>Gopika (15.12.2016)</em></p>
 <p>Thank you very much!</p>
-<p class="right"><em>Denver (18.12.2016)</em></p>
+<p style="text-align: right;"><em>Denver (18.12.2016)</em></p>
 <p>Thank you so much for your kind and wise reply...</p>
 <p>I am happy to be your Dharma fellow.</p>
-<p class="right"><em>Bhikkhuni (19.12.2016)</em></p>
+<p style="text-align: right;"><em>Bhikkhuni (19.12.2016)</em></p>
 <p>Thank you... This is a great answer!</p>
-<p class="right"><em>Ty (12.2016)</em></p>
+<p style="text-align: right;"><em>Ty (12.2016)</em></p>
 <p>This is the best answer I have read so far. Thank you. It makes sense. And yes intelligence should mean flexibility. It totally makes sense.</p>
 <p>...Thank you again. So what do I do next?..</p>
 <p>...Thanks… really it means a lot.</p>
-<p class="right"><em>Sonam (12.2016)</em></p>
+<p style="text-align: right;"><em>Sonam (12.2016)</em></p>
 <p>Thank you for a very enlightening answer. Can you explain just a little bit more how to meditate on ...</p>
-<p class="right"><em>Patrick (23.12.2016)</em></p>
+<p style="text-align: right;"><em>Patrick (23.12.2016)</em></p>
 <p>Thank you</p>
-<p class="right"><em>Irene (01.01.2017)</em></p>
+<p style="text-align: right;"><em>Irene (01.01.2017)</em></p>
 <p>Thank You!</p>
-<p class="right"><em>Fernando (01.01.2017)</em></p>
+<p style="text-align: right;"><em>Fernando (01.01.2017)</em></p>
 <p>Very clear. Thank you.</p>
-<p class="right"><em>(06.01.2017)</em></p>
+<p style="text-align: right;"><em>(06.01.2017)</em></p>
 <p>Благодарю вас за ответы. Вы много полезной информации дали. И я время от времени буду заходить на ваш сайт и читать, потому что в статьях много мудрости.</p>
-<p class="right"><em>Сати (25.01.2017)</em></p>
+<p style="text-align: right;"><em>Сати (25.01.2017)</em></p>
 <p>Thank you.</p>
-<p class="right"><em>Jorge (27.01.2017)</em></p>
+<p style="text-align: right;"><em>Jorge (27.01.2017)</em></p>
 <p>You’ve been great.</p>
-<p class="right"><em>Bill (31.01.2017)</em></p>
+<p style="text-align: right;"><em>Bill (31.01.2017)</em></p>
 <p>Thank you! Very interesting point about the abstraction...</p>
-<p class="right"><em>Daniel (02.02.2017)</em></p>
+<p style="text-align: right;"><em>Daniel (02.02.2017)</em></p>
 <p>Poetically put, thank you. I liked what you said about having one’s own practice. I’m very spatial, and I tend to think of all that you just mentioned as doors that are open. I have my practices, and doors appear...</p>
-<p class="right"><em>Marcos (06.02.2017)</em></p>
+<p style="text-align: right;"><em>Marcos (06.02.2017)</em></p>
 <p>I thank you for challenging me and I will revisit the issue to clarify information I was taught years ago.</p>
 <p>...It's funny when something seems settled in your own mind and then with further study changes meaning.</p>
 <p>...Yes, we can agree and a most eloquent dissertation that I might steal from you in the future. :). Well done. Blessings to you and all sentient beings.</p>
 <p>...Thanks for the discussion and insights. Take care.</p>
-<p class="right"><em>Harry (02.2017)</em></p>
+<p style="text-align: right;"><em>Harry (02.2017)</em></p>
 <p>Alex, thanks, I am very happy for your reply.</p>
-<p class="right"><em>Brian (17.02.2017)</em></p>
+<p style="text-align: right;"><em>Brian (17.02.2017)</em></p>
 <p>Спасибо, что откликнулись сразу на просьбу. :)</p>
-<p class="right"><em>Наташа (18.02.2017)</em></p>
+<p style="text-align: right;"><em>Наташа (18.02.2017)</em></p>
 <p>We rejoice with your effort in translating of our founder Master Sheng Yen's text.</p>
-<p class="right"><em>常 (20.02.2017)</em></p>
+<p style="text-align: right;"><em>常 (20.02.2017)</em></p>
 <p>Definitely. Thank you very much for this. I appreciate this.</p>
-<p class="right"><em>Nick (26.02.2017)</em></p>
+<p style="text-align: right;"><em>Nick (26.02.2017)</em></p>
 <p>Thank you for the detailed reply on the matter.</p>
-<p class="right"><em>Khiem (03.2017)</em></p>
-<p>Thank you for your answer...</p>
-<p>Initially, I used to think it was only about mastering the mind but more and more I realize it is a whole lifestyle.</p>
-<p class="right"><em>Patrick (03.2017)</em></p>
-<p>Your words are pure and direct my attention inward. Thank you very much.</p>
-<p class="right"><em>Nidhi (12.03.2017)</em></p>
-<p>Amazing definition.</p>
-<p class="right"><em>Dorin (03.2017)</em></p>
-<p>Thank you Master Alex.</p>
-<p class="right"><em>Endran (23.03.2017)</em></p>
+<p style="text-align: right;"><em>Khiem (03.2017)</em></p>
+<p style="text-align: justify;">Thank you for your answer...</p>
+<p style="text-align: justify;">Initially, I used to think it was only about mastering the mind but more and more I realize it is a whole lifestyle.</p>
+<p style="text-align: right;"><em>Patrick (03.2017)</em></p>
+<p style="text-align: justify;">Your words are pure and direct my attention inward. Thank you very much.</p>
+<p style="text-align: right;"><em>Nidhi (12.03.2017)</em></p>
+<p style="text-align: justify;">Amazing definition.</p>
+<p style="text-align: right;"><em>Dorin (03.2017)</em></p>
+<p style="text-align: justify;">Thank you Master Alex.</p>
+<p style="text-align: right;"><em>Endran (23.03.2017)</em></p>
 <p><span class="search_hit">Thanks — I’d never really understood the use of mantras in the Buddhist tradition (esp. in Tibetan Buddhism, from what I know) — seeing them as a samadhi practice makes sense.</span></p>
-<p class="right"><em><span class="search_hit">Stan (03.2017)</span></em></p>
+<p style="text-align: right;"><em><span class="search_hit">Stan (03.2017)</span></em></p>
 <p><span class="search_hit">:)</span></p>
-<p class="right"><em><span class="search_hit">Hamze (03.2017)</span></em></p>
+<p style="text-align: right;"><em><span class="search_hit">Hamze (03.2017)</span></em></p>
 <p><span class="search_hit">First of all, thanks for being avalaible to help ^_^ Would you help with spiritual things, or psychological things too?..</span></p>
 <p><span class="search_hit">...Thanks again for the help ^_^ The kneeling meditation with the pillow is great already ^_^</span></p>
 <p><span class="search_hit">...Thanks. I’ll do everything that you told me.</span></p>
-<p class="right"><em><span class="search_hit">Andrew (04.2017)</span></em></p>
+<p style="text-align: right;"><em><span class="search_hit">Andrew (04.2017)</span></em></p>
 <p><span class="search_hit">Thank</span> you for your reply!</p>
-<p class="right"><em>Debu (04.2017)<br></em></p>
+<p style="text-align: right;"><em>Debu (04.2017)<br /></em></p>
 <p>I appreciate your quick though concise response. I will do my best to interpret it in the way you meant it. Thank you for your insight.</p>
 <p>It means a lot that you took the time to write what you did per the request of a stranger.</p>
 <p>...Thank you so much for your time and knowledge. I will work to employ your suggestions.</p>
-<p class="right"><em>Rowan (23.04.2017)</em></p>
+<p style="text-align: right;"><em>Rowan (23.04.2017)</em></p>
 <p>Thank you for allowing me to maybe pick your brain a little bit regarding meditation.</p>
 <p>...That is definitely interesting... It also helps to have somebody as wise as yourself give me advice and I thank you for this.</p>
-<p class="right"><em>Robin (24-25.04.2017)</em></p>
+<p style="text-align: right;"><em>Robin (24-25.04.2017)</em></p>
 <p>This is a nice example.</p>
 <p>...Yes I understand the importance of meditation in seeing... Thanks.</p>
-<p class="right"><em>Archana (04.2017)</em></p>
+<p style="text-align: right;"><em>Archana (04.2017)</em></p>
 <p>Thank you for your well-considered answer, which was very helpful. :-)</p>
-<p class="right"><em>Victoria (29.04.2017)</em></p>
+<p style="text-align: right;"><em>Victoria (29.04.2017)</em></p>
 <p>Well said and summarized.</p>
-<p class="right"><em>Regis (04.2017)</em></p>
+<p style="text-align: right;"><em>Regis (04.2017)</em></p>
 <p>Thank you for the reply. You have clarified a lot... I do appreciate it and the honesty which you have brought.</p>
 <p>...I'm glad Buddhism has such open-minded views, it truly is a peaceful religion. Thanks again Alex, I hope to hear from you soon.</p>
 <p>...Thanks a lot for the highly detailed information... This is very helpful for the beginning of my journey.</p>
-<p class="right"><em>Rohan (04-05.2017)</em></p>
+<p style="text-align: right;"><em>Rohan (04-05.2017)</em></p>
 <p>Thank you for a very precise answer.</p>
-<p class="right"><em>Alice (05.05.2017)</em></p>
+<p style="text-align: right;"><em>Alice (05.05.2017)</em></p>
 <p>Thank you, Alex, for your excellent answer.</p>
-<p class="right"><em>Sid (05.05.2017)</em></p>
+<p style="text-align: right;"><em>Sid (05.05.2017)</em></p>
 <p>Thank you.</p>
 <p>...Wow! 20 years with Marty and I never learned this.</p>
-<p class="right"><em>Stephen (05.2017)</em></p>
+<p style="text-align: right;"><em>Stephen (05.2017)</em></p>
 <p>Quite so.</p>
-<p class="right"><em>Jane (05.2017)</em></p>
+<p style="text-align: right;"><em>Jane (05.2017)</em></p>
 <p>That's a good idea… thanks a lot!</p>
-<p class="right"><em>Hannah (05.2017)</em></p>
+<p style="text-align: right;"><em>Hannah (05.2017)</em></p>
 <p>Oh... Outstanding!!! Thank you Alex for your interesting response.</p>
 <p>...Woops! Your practice is showing, Alex. ;)</p>
 <p>I’ve been questioning exactly the same thing about myself...</p>
-<p class="right"><em>Kirby (05-06.2017)</em></p>
+<p style="text-align: right;"><em>Kirby (05-06.2017)</em></p>
 <p>Again thanks so much for your assistance! Going at this from a basic angle and trying to understand comparatively complex ideas is interesting!</p>
 <p>...Thank you so much! That answered everything. It truly is an interesting religion as it talks more about philosophy rather than the belief in a divine; that is why I wanted to know more about it, because there is so much to say! Thanks for devoting your time to aiding me, and I hope your meditation goes well!</p>
-<p class="right"><em>Daniel (05-06.2017)</em></p>
+<p style="text-align: right;"><em>Daniel (05-06.2017)</em></p>
 <p>Hi Alex, I have a big problem related to chakras, do you have knowledge on this topic? If you have, can you offer me some of your time to give me a bit of guidance?</p>
 <p>...Whoah, thank you very much for the explanations... I really like how you transformed the esoteric things in logical ones. :)</p>
 <p>...Thank you very much Alex for your help, I really think that what you told me about will help me to advance on my path, and because of that I am grateful to you. Have a nice day!</p>
-<p class="right"><em>Eduard (09-10.06.2017)</em></p>
+<p style="text-align: right;"><em>Eduard (09-10.06.2017)</em></p>
 <p>I wanted to know more about Buddhism, I just wanted to ask you...</p>
 <p>Thank you!</p>
-<p class="right"><em>Alfredo (15.06.2017)</em></p>
+<p style="text-align: right;"><em>Alfredo (15.06.2017)</em></p>
 <p>That was such a beautiful response, thank you.</p>
-<p class="right"><em>Hannah (15.06.2017)</em></p>
+<p style="text-align: right;"><em>Hannah (15.06.2017)</em></p>
 <p>Very succinctly written and well put. Thank you!</p>
-<p class="right"><em>Sarah (17.06.2017)</em></p>
+<p style="text-align: right;"><em>Sarah (17.06.2017)</em></p>
 <p>Thank you for the great answer... I have pondered this and this answer satisfies my questions on this topic completely. :)</p>
-<p class="right"><em>Erinhilt (06.2017)</em></p>
+<p style="text-align: right;"><em>Erinhilt (06.2017)</em></p>
 <p>I'm philosophy student though, and I'd love to know Buddhist's interpretation on this seemingly borderline case. Thank you.</p>
 <p>...Thank you for your response. You bring up an interesting point on (...)</p>
-<p class="right"><em>PP (23-24.06.2017)</em></p>
+<p style="text-align: right;"><em>PP (23-24.06.2017)</em></p>
 <p>May your path bring you joy and be a light to the world!</p>
-<p class="right"><em>Bruce (07.2017)</em></p>
+<p style="text-align: right;"><em>Bruce (07.2017)</em></p>
 <p>I really appreciate your keenness to answer any enquiry. It clearly shows how committed you are in spreading the goodness of self-realisation to the world :) Thank you.</p>
 <p>...Thank you for your elaborate and helpful reply. I wish you good health.</p>
 <p>...Yes, and thus you may actually be helping many others through me :)</p>
-<p class="right"><em>Swagato (06-10.07.2017)</em></p>
+<p style="text-align: right;"><em>Swagato (06-10.07.2017)</em></p>
 <p>Humbling.</p>
 <p>...Please accept my gratitudes for your insights.</p>
 <p>...I can relate to that.</p>
@@ -260,115 +261,111 @@
 <p>...I will keep this in mind and consider it! I will get back to you about how it helps! Thank you again...</p>
 <p>...Thanks again for taking the time and having the patience to help me... Man, I am so interested in a Zen retreat! You’re really inspiring me here.</p>
 <p>...All of these pointers will help me to make progress. I am very much appreciative. I’ll keep in mind about the small steps versus large leap. That’s useful because I have been setting an intention and then making myself stick with it even if it becomes uncomfortable, for instance so many rounds on the mala, etc. So it’s nice to know that I can do it differently. :)</p>
-<p class="right"><em>Taylor (06-08.2017)</em></p>
+<p style="text-align: right;"><em>Taylor (06-08.2017)</em></p>
 <p>Thank you.</p>
-<p class="right"><em>Natalia (02.07.2017)</em></p>
+<p style="text-align: right;"><em>Natalia (02.07.2017)</em></p>
 <p>Wonderful explanation.</p>
-<p class="right"><em>Abhishek (07.2017)</em></p>
+<p style="text-align: right;"><em>Abhishek (07.2017)</em></p>
 <p>Thank you for all the links! I appreciate it!</p>
-<p class="right"><em>Benjamin (05.07.2017)</em></p>
+<p style="text-align: right;"><em>Benjamin (05.07.2017)</em></p>
 <p>Thanks for your words of encouragement.</p>
 <p>...I am learning to respect your powers of judgement; they seem exceptional to me.</p>
 <p>...Speaking of Master Sheng Yen, I must tell you that the little video of him on your website impressed me deeply. He is one with whom I would gladly sit in zazen.</p>
 <p>Health and long life,</p>
-<p class="right"><em>Bill (07.2017)</em></p>
+<p style="text-align: right;"><em>Bill (07.2017)</em></p>
 <p>Thank you for your detailed response... I agree with many of your points...</p>
-<p class="right"><em>Nancy (07.2017)</em></p>
+<p style="text-align: right;"><em>Nancy (07.2017)</em></p>
 <p>Very helpful…</p>
-<p class="right"><em>Jane (14.07.2017)</em></p>
+<p style="text-align: right;"><em>Jane (14.07.2017)</em></p>
 <p>Thanks again.</p>
 <p>...May your Every Single cell be Happy &amp; Well ;-)</p>
-<p class="right"><em>Fabrizio (14.07.2017)</em></p>
+<p style="text-align: right;"><em>Fabrizio (14.07.2017)</em></p>
 <p>I agree with you, real love doesn't have a name. However I live in duality created by my mind, that sees things as separate. I can see how much attached I am to this projection of him...</p>
-<p class="right"><em>Judith (24.07.2017)</em></p>
+<p style="text-align: right;"><em>Judith (24.07.2017)</em></p>
 <p>Thank you very much. I would greatly appreciate a response from you regarding...</p>
 <p>...Understood. Thank you for your thorough explanation.</p>
-<p class="right"><em>George (02.08.2017)</em></p>
+<p style="text-align: right;"><em>George (02.08.2017)</em></p>
 <p>Твой ответ дал мне уже огромный кусок мудрости! Спасибо огромное!</p>
-<p class="right"><em>Макс (03.08.2017)</em></p>
+<p style="text-align: right;"><em>Макс (03.08.2017)</em></p>
 <p>Thank you for the article! I read it.</p>
-<p class="right"><em>Charles (08.2017)</em></p>
+<p style="text-align: right;"><em>Charles (08.2017)</em></p>
 <p>Interesting!</p>
-<p class="right"><em>Alia (08.2017)</em></p>
+<p style="text-align: right;"><em>Alia (08.2017)</em></p>
 <p>Повторю комплимент :). Просто и очень доходчиво!!! Классно!</p>
 <p>…Благодарю!</p>
 <p>Как всегда, интересно, доходчиво и познавательно… 🙏</p>
-<p class="right"><em>Александр (08.2017)</em></p>
+<p style="text-align: right;"><em>Александр (08.2017)</em></p>
 <p>Good analogy with the pots. Thank you. I'll keep meditating… :)</p>
 <p>...Thanks for the tip. I'll try that tomorrow morning!</p>
 <p>...Doing it right now! While helping out my wife with cooking :D</p>
-<p class="right"><em>Tom (08.2017)</em></p>
+<p style="text-align: right;"><em>Tom (08.2017)</em></p>
 <p>As a Practising Buddhist for ten years now I LOVE the sign you shared...</p>
-<p class="right"><em>Carla (08.2017)</em></p>
+<p style="text-align: right;"><em>Carla (08.2017)</em></p>
 <p>Thank you for this insightful and compassionate answer.</p>
-<p class="right"><em>Lanka (15.08.2017)</em></p>
+<p style="text-align: right;"><em>Lanka (15.08.2017)</em></p>
 <p>Хочу выразить благодарность Постоянному Озарению за создание дивного сайта!</p>
-<p class="right"><em>Дмитрий (15.08.2017)</em></p>
+<p style="text-align: right;"><em>Дмитрий (15.08.2017)</em></p>
 <p>Thank you for telling story about Buddha… Very inspiring</p>
-<p class="right"><em>Dave (08.2017)</em></p>
+<p style="text-align: right;"><em>Dave (08.2017)</em></p>
 <p>I read everything you write, and I read it many times over again.</p>
 <p><span class="search_hit">...Thank</span> you for all your guidance and checking in with me, that’s very kind of you.</p>
 <p>Much of what you said, resonated with me. I did heed your advice.</p>
 <p>...Today has been still and joyful. I sense calmness which lead me to the curiosity of the experience that just ended. I will do as you suggest at this moment. I’ll let you know how it goes.</p>
 <p>Thank you so much for everything Alex, I really appreciate your time.</p>
-<p class="right"><em>Mimi (08.2017)</em></p>
+<p style="text-align: right;"><em>Mimi (08.2017)</em></p>
 <p>I wish to say a sincere thank you for the advice you have given me.</p>
-<p class="right"><em>George (28.09.2017)</em></p>
+<p style="text-align: right;"><em>George (28.09.2017)</em></p>
 <p>Мне также очень нравятся ваши пояснения своими, а не традиционными словами. Мне кажется, это путь к осовремениванию и оживлению философии дзена...</p>
 <p>Спасибо вам за ваш сайт и за то, что вы делаете.</p>
-<p class="right"><em>Андрей (23.11.2017)</em></p>
+<p style="text-align: right;"><em>Андрей (23.11.2017)</em></p>
 <p>Thank you for the explanation. There's a lot I can take away from it as lessons for me in learning the Dharma in this very life...</p>
-<p class="right"><em>George (26.11.2017)</em></p>
+<p style="text-align: right;"><em>George (26.11.2017)</em></p>
 <p>Спасибо, что ответили на этот вопрос, очень благодарен!</p>
-<p class="right"><em>Алексей (26.11.2017)</em></p>
+<p style="text-align: right;"><em>Алексей (26.11.2017)</em></p>
 <p>I had a question that I wanted to ask to someone who is experienced and familiar with Zen and Buddhism...</p>
 <p>Thank you...</p>
-<p class="right"><em>Soham (29.11.2017)</em></p>
+<p style="text-align: right;"><em>Soham (29.11.2017)</em></p>
 <p><span class="search_hit">Thank</span> you, friend.</p>
-<p class="right"><em>John (28.12.2017)</em></p>
+<p style="text-align: right;"><em>John (28.12.2017)</em></p>
 <p>Вот Вы Мастер! :-) Так просто и понятно объясняете, благодарю! Это во многом соответствует и моему опыту. Вы очень помогаете. :namaste:</p>
-<p class="right"><em>Алексей (17.01.2018)</em></p>
+<p style="text-align: right;"><em>Алексей (17.01.2018)</em></p>
 <p>Your answer was the best I've found and the one that I felt good with...</p>
 <p>What's your advice? What can I do to...</p>
 <p>...Thank you so much!</p>
-<p class="right"><em>Jazmin (26.01.2018)</em></p>
+<p style="text-align: right;"><em>Jazmin (26.01.2018)</em></p>
 <p>Спасибо за наставления! Рад нашему знакомству.</p>
 <p>...Спасибо Вам за наставления. Они мне очень помогают во практике. Посмотрел запись Вашего диалога. Сейчас читаю Ваши статьи.</p>
 <p>...Прочитал сегодня статью «Что такое буддизм».</p>
 <p>Очень хорошая и доступная статья.</p>
-<p class="right"><em>Иван (01-02.2018)</em></p>
+<p style="text-align: right;"><em>Иван (01-02.2018)</em></p>
 <p>Thank you. Interesting points.</p>
-<p class="right"><em>David (04.05.2018)</em></p>
+<p style="text-align: right;"><em>David (04.05.2018)</em></p>
 <p>Surely sir your advice matters me a lot.</p>
 <p>Thank you so much.</p>
-<p class="right"><em>Sameer (21.05.2018)</em></p>
+<p style="text-align: right;"><em>Sameer (21.05.2018)</em></p>
 <p>Хочу ещё раз поблагодарить Вас за видео-уроки и вебинар, который Вы недавно провели и в котором я также принимала участие. Как всегда, было очень интересно и информативно.</p>
-<p class="right"><em>Жанна (30.06.2018)</em></p>
+<p style="text-align: right;"><em>Жанна (30.06.2018)</em></p>
 <p>Thank you so much for being able to answer some questions in regards to...</p>
 <p>What brought me to you as a next step was that I was intrigued by your one answer...</p>
 <p>Thank you so much for offering a helping hand,</p>
-<p class="right"><em>Thomas (26.09.2018)</em></p>
+<p style="text-align: right;"><em>Thomas (26.09.2018)</em></p>
 <p>Thanks for explaining that.</p>
-<p class="right"><em>Thomas (27.09.2018)</em></p>
+<p style="text-align: right;"><em>Thomas (27.09.2018)</em></p>
 <p>Master Sheng Yen’s description of Chan is beautifully stated. Thank you for sharing that.</p>
-<p class="right"><em>Steve (01.10.2018)</em></p>
+<p style="text-align: right;"><em>Steve (01.10.2018)</em></p>
 <p>Но попытки найти описания и обсуждения вопроса в инете ничего не дали: ровно 0. Как будто такого приёма и не существует.</p>
 <p>Подскажи, что знаешь, если знаешь.</p>
 <p>...Спасибо. Начну...</p>
 <p>Да: знаю, дошло.</p>
 <p>...Спасибо: от души.</p>
-<p class="right"><em>Павел (11.2018)</em></p>
-<p>Про хуатоу&nbsp;– понимаю, о чём вы. И подход ваш мне тоже нравится больше, он более естественнен.</p>
+<p style="text-align: right;"><em>Павел (11.2018)</em></p>
+<p>Про хуатоу – понимаю, о чём вы. И подход ваш мне тоже нравится больше, он более естественнен.</p>
 <p>...Признаться, до ваших разъяснений это как-то не доходило. Сейчас понимаю...</p>
 <p>Благодарствую за напутствие и помощь, буду практиковать далее! На самом деле, ваши замечания очень ценны. Хоть я немного с вами и спорю, вижу, что это мои цепляния. Надеюсь, жёсткость ко взглядам отброшу. Думаю, вы направляете внимание, куда нужно, самому сложно заметить иллюзии. Поэтому прислушаюсь.</p>
-<p class="right"><em>Алексей (12.2018)</em></p>
+<p style="text-align: right;"><em>Алексей (12.2018)</em></p>
 <p>Здравствуйте, Алексей!</p>
 <p>Сердечно благодарю Вас за более чем исчерпывающий ответ, а также за возможность, с помощью Вашего сайта, общаться и получать знания, так необходимые нам для избавления от страданий круга рождения и смерти. С уважением.</p>
-<p class="right"><em>Сергей (09.12.2018)</em></p>
-<p>&nbsp;</p>
-&nbsp;<br>
-</div>
-</main>
-<a class="top" href="#top">▲</a>
+<p style="text-align: right;"><em>Сергей (09.12.2018)</em></p>
+<p> </p></main><a class="top" href="#top">▲</a>
 </body>
 </html>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <title>Русское Дзендо</title>
+  <meta name="description" content="Дзенская практика на русском языке">
+  <meta name="author" content="Постоянное Озарение">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+<nav>
+<a href="/">Что</a>
+<a href="/q-a">Вопросы</a>
+<a href="/guide">Путеводитель</a>
+<a href="/texts">Тексты</a>
+<a href="/video">Видео</a>
+<a href="/blog">Дневник</a>
+</nav>
+<main><span id="language"></span> <span id="modified">v. 2016-06-22</span>
+<h2 id="author">Постоянное Озарение</h2>
+<h1 id="title">Awakened Mind License</h1>
+<h3>русская версия: <a href="#ru">Лицензия Пробуждённого Ума</a></h3>
+<h1>Awakened Mind (Inheritance - Share-Alike) License</h1>
+<div class="pull-right centertext" style="width: 20%; background-color: #ffffe0;">
+<p><img src="/images/awakened.png" alt="" /><br /> Awakened</p>
+</div>
+<div>
+<p>The intention of this work is to develop wisdom and compassion,<br /> applied to the conditions of our collective life in the world.<br /> For the sake of liberation of all the sentient beings equally,<br /> from suffering and ignorance to the awakened presence.</p>
+</div>
+<div class="clearfix"> </div>
+<div class="pull-right centertext" style="width: 20%; background-color: #f0f8ff;">
+<p><img src="/images/inherit.png" alt="" /><br />Inheritance</p>
+</div>
+<div>
+<p>Anything derived from this work should follow this intention<br /> and try to be created by the totality of the awakened mind.<br /> Derivative works should give reference to the source,<br /> to make it accessible to further users.</p>
+</div>
+<div class="clearfix"> </div>
+<div class="pull-right centertext" style="width: 20%; background-color: #ffe4e1;">
+<p><img src="/images/sa.png" alt="" /><br />Share-Alike</p>
+</div>
+<div>
+<p>This work may be shared, reproduced and used in further works,<br /> commercially or non-commercially, without restrictions,<br /> as long as these works and distributions conform to this license,<br /> giving users the same freedoms and conditions.</p>
+</div>
+<div class="clearfix"> </div>
+<hr />
+<p><a name="ru"></a></p>
+<h1>Лицензия Пробуждённого Ума (Наследование – Подобное распространение)</h1>
+<div class="pull-right centertext" style="width: 20%; background-color: #ffffe0;">
+<p><img src="/images/awakened.png" alt="" /><br />Пробуждённость</p>
+</div>
+<div>Намерение этой работы – развивать мудрость и сострадание, применимые к условиям нашей совместной жизни в мире. Ради освобождения всех чувствующих существ без различий, от страданий и неведения – ко пробуждённому присутствию.</div>
+<div class="clearfix"> </div>
+<div class="pull-right centertext" style="width: 20%; background-color: #f0f8ff;">
+<p><img src="/images/inherit.png" alt="" /><br />Наследование</p>
+</div>
+<div>Всё производное от этой работы должно следовать этому намерению, и нужно стараться создавать его всецельностью пробуждённого ума. Производные работы должны ссылаться на источник, чтобы делать его доступным дальнейшим пользователям.</div>
+<div class="clearfix"> </div>
+<div class="pull-right centertext" style="width: 20%; background-color: #ffe4e1;">
+<p><img src="/images/sa.png" alt="" /><br />Подобное распространение</p>
+</div>
+<div>Этой работой можно делиться, воспроизводить и использовать в дальнейших работах, коммерчески или некоммерчески, без ограничений, пока эти работы и производные согласуются с этой лицензией, давая пользователям те же права и условия.</div>
+<hr /></main><a class="top" href="#top">▲</a>
+</body>
+</html>

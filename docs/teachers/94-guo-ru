@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <title>Русское Дзендо</title>
+  <meta name="description" content="Дзенская практика на русском языке">
+  <meta name="author" content="Постоянное Озарение">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+<nav>
+<a href="/">Что</a>
+<a href="/q-a">Вопросы</a>
+<a href="/guide">Путеводитель</a>
+<a href="/texts">Тексты</a>
+<a href="/video">Видео</a>
+<a href="/blog">Дневник</a>
+</nav>
+<main><span id="language"></span> <span id="modified">v. 2019-01-31</span>
+<h2 id="author">Постоянное Озарение</h2>
+<h1 id="title">Го Жу</h1>
+<p><img class="right" src="/images/master-guo-ru.jpg" alt="" width="487" height="497" />Мастер Го Жу рассказывает о своей жизни и обучении у Мастера Шен Яня (Шифу) в беседах:</p>
+<ol>
+<li><a href="/texts/93-derive-power">Извлекаем силу из кармических препятствий</a></li>
+<li><a href="/texts/37-difficult">Трудная практика</a></li>
+<li><a href="/texts/3-stages">Понимание ступеней чаньской практики</a></li>
+</ol>
+<hr />
+<blockquote>
+<p>На сайте <a title="Русское Дзендо" href="https://zen-do.ru/">Zen-Do.Ru</a> есть следующие работы Мастера Го Жу:</p>
+<p> </p>
+<blockquote>1. <a href="/texts/37-difficult">Трудная практика</a><br /> 2. <a href="/texts/3-stages">Понимание ступеней чаньской практики</a><br /> 3. <a href="/texts/71-harsh">Об использовании жёстких методов</a><br /> 4. <a href="/texts/93-derive-power">Извлекаем силу из кармических препятствий</a><br /> 5. <a href="/texts/66-compare">Сравнение методов: Хуатоу и Безмолвное Озарение</a></blockquote>
+</blockquote></main><a class="top" href="#top">▲</a>
+</body>
+</html>

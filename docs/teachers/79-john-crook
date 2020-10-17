@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <title>Русское Дзендо</title>
+  <meta name="description" content="Дзенская практика на русском языке">
+  <meta name="author" content="Постоянное Озарение">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+<nav>
+<a href="/">Что</a>
+<a href="/q-a">Вопросы</a>
+<a href="/guide">Путеводитель</a>
+<a href="/texts">Тексты</a>
+<a href="/video">Видео</a>
+<a href="/blog">Дневник</a>
+</nav>
+<main><span id="language"></span> <span id="modified">v. 2019-01-31</span>
+<h2 id="author">Постоянное Озарение</h2>
+<h1 id="title">Джон Крук</h1>
+<p style="text-align: justify;"><img style="float: right; margin-left: 12px;" src="/images/john-crook.jpg" alt="John Crook" width="180" height="142" /> Доктор Джон Хoрел Крук (John Hurrell Crook), 27.11.1930 – 15.07.2011, выдающийся британский учёный (этолог и социолог), чань-буддист.</p>
+<p style="text-align: justify;">Изучал поведение птиц и общественную организацию животных. В 1977 году провёл экспедицию в Занскар, исследовал обычаи гималайских народов. Преподавал на факультете психологии Бристольского Университета.</p>
+<p style="text-align: justify;">Впервые встретился с чань-буддизмом в Гонконге, где оказался как призывник британской армии в Корейскую войну. Затем учился у многих чаньских, дзенских и тибетских наставников. В 1975 г. основал медитационный центр в своём доме в Мэнльвиде (Maenllwyd) в Уэльсе. Проводил для практикующих затворничества по Махамудре, дзену и подготовительным практикам.</p>
+<p style="text-align: justify;">В 1993 году стал первым из западных наследников Дхармы (т.е., учителей-преемников) чаньского Мастера <a href="/teachers/83-sheng-yen" rel="alternate">Шен Яня</a>, в традициях Линьцзи и Цаодун. Получил имя Чуаньден Цзинди – Передача Светильника Видения Истины.</p>
+<p style="text-align: justify;">Джон Крук выработал новый стиль затворничества, известный как Затворничество Западного Дзена (Western Zen Retreat). Оно перенимает традиционную структуру чаньского затворничества, но включает и другие техники, в частности, «упражнение в общении», чтобы помочь уму западного образования пройти за пределы мышления и развить чаньский опыт.</p>
+<p style="text-align: justify;">Ещё одно нововведение Крука – новый подход к практике коанов: использование некоторых уроков Затворничества Западного Дзена, чтобы помочь людям Запада в практике традиционного гунъаня (<em>яп.</em> коана) и хуатоу (<em>яп.</em> вато).</p>
+<p style="text-align: justify;">Из сообщества практикующих, участвовавших в затворничествах с Джоном Круком, в 1996 году выросла огранизация под названием Западное Чаньское Товарищество (<a href="http://www.westernchanfellowship.org/" rel="alternate">Western Chan Fellowship</a>). Иногда Крук вёл затворничества и в Медитационном Центре Барабан Дхармы в Пайн-буш, шт. Нью-Йорк.</p>
+<p style="text-align: justify;">Доктор Крук опубликовал около сотни научных трудов по орнитологии, этологии и эволюционной психологии, и несколько книг о сознании и дзенской практике. Его последней работой была книга «Мировой кризис и буддийский гуманизм» (2009).</p>
+<p style="text-align: justify;">Умер 15 июля 2011 г., вскоре после того, как многие бывшие ученики и коллеги собрались в Сомерсете воздать ему почести. Коллеги называли его ключевой фигурой в развитии британской приматологии и социоэкологии.</p>
+<p style="text-align: justify;">Сейчас учителем Западного Чаньского Товарищества является <a href="/teachers/82-simon-child" rel="alternate">Саймон Чайлд</a>, соратник Джона Крука и второй из западных наследников Дхармы Мастера Шен Яня <em>(2000 г.)</em>.</p>
+<p> </p>
+<blockquote>
+<p>На сайте <a title="Русское Дзендо" href="https://zen-do.ru/" rel="alternate">Zen-Do.Ru</a> есть следующие работы Мастера Джона Крука:</p>
+<p> </p>
+<blockquote>{articles cat:title:texts,video}{if:created_by_alias='Джон Крук'}- {link}{title}{/link}<br />{/if} {/articles}</blockquote>
+</blockquote>
+<hr />
+<p style="text-align: right;"><a title="http://w-c-f.org/Q510" href="http://w-c-f.org/Q510" rel="nofollow">http://w-c-f.org/Q510</a><br /><a title="http://www.thefullwiki.org/John_Crook" href="http://www.thefullwiki.org/John_Crook" rel="nofollow">http://www.thefullwiki.org/John_Crook</a><br /><a title="https://en.wikipedia.org/wiki/John_Crook_(ethologist)" href="https://en.wikipedia.org/wiki/John_Crook_%28ethologist%29" rel="nofollow">https://en.wikipedia.org/wiki/John_Crook_(ethologist)</a></p></main><a class="top" href="#top">▲</a>
+</body>
+</html>

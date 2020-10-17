@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <title>Русское Дзендо</title>
+  <meta name="description" content="Дзенская практика на русском языке">
+  <meta name="author" content="Постоянное Озарение">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+<nav>
+<a href="/">Что</a>
+<a href="/q-a">Вопросы</a>
+<a href="/guide">Путеводитель</a>
+<a href="/texts">Тексты</a>
+<a href="/video">Видео</a>
+<a href="/blog">Дневник</a>
+</nav>
+<main><span id="language"></span> <span id="modified">v. 2018-01-24</span>
+<h2 id="author">Постоянное Озарение</h2>
+<h1 id="title">Стихи</h1>
+<h3 style="text-align: right;"><a href="/teachers/100-illumination">Постоянное Озарение</a></h3>
+<h1 style="text-align: center;">Стихи</h1>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p>Как капли капают дождя <br />Свободно в гулкой тишине: <br />Ни привлекаясь, ни судя&hellip; <br /> Ещё не зная обо мне.</p>
+<p style="text-align: right;">2016.01.20</p>
+<hr />
+<p>&nbsp;</p>
+<div class="level3">
+<p>Хвать! Поймал! Густым туманом<br /> Облако сквозит меж пальцев,<br /> Ураганным караваном<br /> Догоняет постояльцев&hellip;<br /> Только ветер - снова хвать! -<br /> Удаётся мне поймать&hellip;</p>
+<p style="text-align: right;">2006 или 2007</p>
+<hr />
+<p>&nbsp;</p>
+</div></main><a class="top" href="#top">▲</a>
+</body>
+</html>

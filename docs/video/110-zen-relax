@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <title>Русское Дзендо</title>
+  <meta name="description" content="Дзенская практика на русском языке">
+  <meta name="author" content="Постоянное Озарение">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+<nav>
+<a href="/">Что</a>
+<a href="/q-a">Вопросы</a>
+<a href="/guide">Путеводитель</a>
+<a href="/texts">Тексты</a>
+<a href="/video">Видео</a>
+<a href="/blog">Дневник</a>
+</nav>
+<main><span id="language"></span> <span id="modified">v. 2018-02-03</span>
+<h2 id="author">Постоянное Озарение</h2>
+<h1 id="title">Медитация расслабления</h1>
+<h2 style="text-align: center;">Медитация расслабления</h2>
+
+<p class="pull-center"><img alt="Медитация в позе лотоса" data-image-widget-flowlayout="1" height="300" src="/images/full.png" style="display: block;" width="260" /></p>
+
+<p>&nbsp;</p>
+
+<p>{source}&lt;center&gt;</p>
+
+<div class="w3-code notranslate htmlHigh"><span style="color:brown"><span style="color:mediumblue">&lt;</span>audio<span style="color:red"> controls</span><span style="color:mediumblue">&gt;</span></span><br />
+&nbsp; <span style="color:brown"><span style="color:mediumblue">&lt;</span>source<span style="color:red"> src<span style="color:mediumblue">="/images/video/001_relax.mp3"</span> type<span style="color:mediumblue">="audio/mpeg"</span></span><span style="color:mediumblue">&gt;</span></span><br />
+Your browser does not support the audio element.<br />
+<span style="color:brown"><span style="color:mediumblue">&lt;</span>/audio<span style="color:mediumblue">&gt;</span></span></div>
+
+<p>&lt;!--</p>
+
+<p>&lt;iframe name="embeddedPlayer" scrolling="no" style="border: none; overflow: hidden; width:452px; height: 53px;" src="http://podfm.ru/getplayer/pod/?rss=http%3A%2F%2Fzendo.podfm.ru%2Fzen%2F1%2Frss.xml&amp;channel=embeddedplayer" &gt; --&gt;&lt;/iframe&gt;</p>
+
+<p>&lt;/center&gt;{/source}</p>
+
+<p>Расслабление - фундамент любой медитации, поэтому с этой практики полезно начинать освоение любого дзенского метода (и медитаций вообще).<br />
+<br />
+Это практика из чаньской школы "Гора Барабан Дхармы" (Мастера Шен Яня).<br />
+<a class="postlink" href="https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B3%D1%83%D1%88%D0%B0%D0%BD%D1%8C">https://ru.wikipedia.org/wiki/Фагушань</a></p>
+
+<p>Краткий вариат с некоторыми дальнейшими пояснениями о практике см. <a href="https://zen-do.ru/video/216-01-relax">Краткая медитация расслабления</a> <em>(видео)</em>.</p>
+</main><a class="top" href="#top">▲</a>
+</body>
+</html>

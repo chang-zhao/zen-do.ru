@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <title>Русское Дзендо</title>
+  <meta name="description" content="Дзенская практика на русском языке">
+  <meta name="author" content="Постоянное Озарение">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+<nav>
+<a href="/">Что</a>
+<a href="/q-a">Вопросы</a>
+<a href="/guide">Путеводитель</a>
+<a href="/texts">Тексты</a>
+<a href="/video">Видео</a>
+<a href="/blog">Дневник</a>
+</nav>
+<main><span id="language"></span> <span id="modified">v. 2019-01-31</span>
+<h2 id="author">Постоянное Озарение</h2>
+<h1 id="title">Го Син</h1>
+<p style="text-align: justify;"><img class="pull-right" title="guo xing" src="/images/guo-xing-x272.jpg" alt="guo xing" width="272" height="327" />Учитель Дхармы (Фа Ши) Достопочтенный Го Син родился на Тайване в 1953. Он изучал йогу и медитацию, и с 1984 года чань-буддизм под руководством Шен Яня. Через два года принял постриг в монахи.</p>
+<p style="text-align: justify;">Через пять лет учёбы и работы в монастырской сангхе у Мастера Шен Яня, Достопочтенный Го Син отправился на годовое затворение в Таиланд, чтобы изучить методы практики в традиции Тхеравады.</p>
+<p style="text-align: justify;">Вернувшись, Го Син продолжал помогать Мастеру Шен Яню проводить медитационные затворения на Тайване, в Юго-Восточной Азии и в США. В том числе, первое сорокадевятидневное затворение в Центре Затворений Барабан Дхармы (Dharma Drum Retreat Center) в штате Нью-йорк в 2000 году.</p>
+<p style="text-align: justify;">В 2005 году, чувствуя ухудшение здоровья, Мастер Шен Янь поручил двенадцати монахам своей школы (<em>Гора Барабан Дхармы</em>, кит. Фагушань) миссию продолжать распространять Учение*. В их числе был Учитель Дхармы Го Син.</p>
+<div class="note">
+<p style="font-size: 0.8rem;">*Получивший такую миссию, будь то монах или мирянин, переживший пробуждение или нет, называется наследником Дхармы. Подробнее см.: Шен Янь. <a title="Моя практика и передача" href="/texts/253-transmission">Моя практика и передача</a>.</p>
+</div>
+<p style="text-align: justify;">За эти годы Достопочтенный Го Син провёл многие десятки затворений, был ведущим инструктором по чаньской практике в Университете Сангхи Фагушань и работал на других должностях как чаньский Учитель на Тайване и в США. Сейчас он директор Чаньского Зала Фагушань на Тайване.</p>
+<p style="text-align: justify;">В апреле-мае 2018 года ожидается приезд Го Сина Фа Ши в Россию, где он проведёт <a title="https://zen-do.ru/texts/241-retreat-2018" href="/texts/242-retreat-2018">семидневное дзенское затворение</a>.</p>
+<p style="text-align: justify;">На сайте <a title="Русское Дзендо" href="https://zen-do.ru/" rel="alternate">Zen-Do.Ru</a> есть следующие работы Учителя Дхармы Го Сина:</p>
+<p> </p>
+<blockquote>{articles cat:title:texts}{if:created_by_alias='Го Син'}- {link}{title}{/link}<br />{/if}{/articles} {articles cat:title:video}{if:created_by_alias='Го Син'}- {link}{title}{/link} <i>(видео)</i><br />{/if}{/articles}</blockquote></main><a class="top" href="#top">▲</a>
+</body>
+</html>

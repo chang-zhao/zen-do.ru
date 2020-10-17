@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <title>Русское Дзендо</title>
+  <meta name="description" content="Дзенская практика на русском языке">
+  <meta name="author" content="Постоянное Озарение">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+<nav>
+<a href="/">Что</a>
+<a href="/q-a">Вопросы</a>
+<a href="/guide">Путеводитель</a>
+<a href="/texts">Тексты</a>
+<a href="/video">Видео</a>
+<a href="/blog">Дневник</a>
+</nav>
+<main><span id="language"></span> <span id="modified">v. 2019-01-31</span>
+<h2 id="author">Постоянное Озарение</h2>
+<h1 id="title">Скажите, пожалуйста: у вас есть строфы для декламации в традиции школы чань и чаньский календарь?</h1>
+<p>Буддийский календарь<br /><a title="Буддийский календарь" href="/texts/291-2019" rel="alternate">https://zen-do.ru/texts/291-2019</a><br /><br />Чаньское пение<br />- Текст<br /><a title="Текст Чаньские песнопения" href="https://yadi.sk/i/HfN-WMOYem2qP" rel="alternate">https://yadi.sk/i/HfN-WMOYem2qP</a><br />- Аудио<br /><a title="Аудио Чаньские песнопения" href="https://yadi.sk/d/eEnbC6l21NKY3" rel="alternate">https://yadi.sk/d/eEnbC6l21NKY3</a><br /><br />На здоровье :).</p></main><a class="top" href="#top">▲</a>
+</body>
+</html>

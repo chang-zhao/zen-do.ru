@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <title>Русское Дзендо</title>
+  <meta name="description" content="Дзенская практика на русском языке">
+  <meta name="author" content="Постоянное Озарение">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+<nav>
+<a href="/">Что</a>
+<a href="/q-a">Вопросы</a>
+<a href="/guide">Путеводитель</a>
+<a href="/texts">Тексты</a>
+<a href="/video">Видео</a>
+<a href="/blog">Дневник</a>
+</nav>
+<main><span id="language"></span> <span id="modified">v. 2019-01-31</span>
+<h2 id="author">Постоянное Озарение</h2>
+<h1 id="title">Го Юань</h1>
+<p style="text-align: justify;"><img class="pull-right" style="margin-left: 3em;" title="Го Юань" src="/images/guo-yuan-book1.jpg" alt="Го Юань" width="240" height="360" /> Мастер Го Юань (果元法师) родился в 1950 г. во Вьетнаме. С 1983 года – ученик Мастера Шен Яня, с 1987 – дзен-буддийский монах. Глава Международного Чаньского Центра Затворничеств на Горе Барабан Дхармы (Тайвань).</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">На сайте <a title="Русское Дзендо" href="https://zen-do.ru/" rel="alternate">Zen-Do.Ru</a> есть следующие работы Мастера Го Юаня:</p>
+<blockquote>{articles cat:title:texts}{if:created_by_alias='Го Юань'}- {link}{title}{/link}<br />{/if}{/articles} {articles cat:title:video}{if:created_by_alias='Го Юань'}- {link}{title}{/link} <i>(видео)</i><br />{/if}{/articles}</blockquote>
+<hr /></main><a class="top" href="#top">▲</a>
+</body>
+</html>

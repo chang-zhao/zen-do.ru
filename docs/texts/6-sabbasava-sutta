@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <title>Русское Дзендо</title>
+  <meta name="description" content="Дзенская практика на русском языке">
+  <meta name="author" content="Постоянное Озарение">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+<nav>
+<a href="/">Что</a>
+<a href="/q-a">Вопросы</a>
+<a href="/guide">Путеводитель</a>
+<a href="/texts">Тексты</a>
+<a href="/video">Видео</a>
+<a href="/blog">Дневник</a>
+</nav>
+<main><span id="language"></span> <span id="modified">v. 2013-08-19</span>
+<h2 id="author">Будда</h2>
+<h1 id="title">Сутта о всех влечениях</h1>
+<div>
+	<center>
+		<h2>
+			Мадджхима Никая 2</h2>
+		<h1>
+			Саббасава сутта</h1>
+		<h1>
+			Сутта о всех влечениях</h1>
+	</center>
+	<p  class="center">
+		<a href="http://dhamma.ru/copyright.htm" target="_blank">Только для бесплатного распространения</a></p>
+	<p class="right">
+		Перевод с пали Д.А. Ивахненко</p>
+	<hr />
+	<h2  class="center">
+		Предисловие переводчика</h2>
+	<p align="justify">
+		Термин &quot;āsava&quot; играет особую роль в учении Будды. Достижение конечной цели, &ndash; Ниббаны, &ndash; зачастую описывается в суттах фразой типа: &quot;ум почтенного (имя монаха), не испытывая привязанности, освободился от влечений (āsava)&quot;.Это особая категория пороков, существующих на самом глубоком уровне, и их устранение знаменует собой Пробуждение.</p>
+	<p align="justify">
+		Какова же история этого термина? Как и многие другие, он был заимствован Буддой из существующих в то время индийских духовных традиций. Буквально этот термин в данном контексте означает &quot;протечка&quot; (санскр. āsrava), и в джайнизме сохранилось древнее метафорическое понимание этого слова. &quot;Асавы&quot; уподобляются щелям в дверях и окнах, через которые в дом души проникают кармические загрязнения. Еще одна метафора &ndash; протечки в дне корабля души, из-за которых она погружается в воду. Именно из-за существования таких &quot;протечек&quot; возможно накопление более грубых пороков. Эти пороки можно убрать из дома, как грязь, но если не заделаны щели, то пороки накопятся снова. Освобождение описывается не просто как устранение загрязнений (&#39;upakkilesa&#39;), а как устранение &#39;āsava&#39;, самих предпосылок этих загрязнений.</p>
+	<p align="justify">
+		Подобные метафорические сравнения есть и в буддийских текстах</p>
+	<dir>
+	</dir>
+	<dir>
+		Когда жажда не устранена, то<br />
+		из зрения течет-протекает (āsavati) жажда к образам,<br />
+		из слуха течет-протекает жажда к звукам,<br />
+		из обоняния течет-протекает жажда к запахам,<br />
+		из чувства вкуса течет-протекает жажда к вкусам,<br />
+		из тела течет-протекает жажда к прикосновениям,<br />
+		из рассудка течет-протекает жажда к понятиям.
+	</dir>
+	<p class="right">
+		(Маханиддеса 1.233)</p>
+	<br />
+	<br />
+	<dir>
+		13. Как в дом с плохой крышей просачивается дождь, так в плохо развитый ум просачивается вожделение.<br />
+		14. Как в дом с хорошей крышей не просачивается дождь, так в хорошо развитый ум не просачивается вожделение.
+	</dir>
+	<p class="right">
+		(Дхаммапада)</p>
+	<p align="justify">
+		Кроме &quot;асав&quot;, есть и другая категория пороков &ndash; &quot;огха&quot;, в буквальном смысле означающая &quot;поток&quot;, а в переносном &ndash; неведение и тщетные желания. Классификация четырех типов &quot;огха&quot; совпадает с классификацией типов &quot;асав&quot;.</p>
+	<p align="justify">
+		В каноническом определении (Вибханга .364) &quot;āsava&quot; поясняется как желание, страсть, жажда, поэтому я выбрал в качестве перевода этого термина слово &quot;влечение&quot;, подразумевающее некую глубинную склонность, предпосылку жажды и желания.</p>
+	<p align="justify">
+		Если под дверями &quot;дома души&quot; понимать двери восприятия, то щелями будут тонкие дефекты восприятия, приводящие к искаженной интерпретации, неадекватным чувствам и ошибочным действиям. Поэтому закономерно, что в нижеприведенной сутте в качестве главного средства против &quot;протечек&quot; предлагается так называемое &quot;основательное внимание&quot; &ndash; умелое управление направленностью внимания при восприятии, ориентация его на определенное качества, благодаря чему &quot;протечки&quot; не возникают и ликвидируются.</p>
+	<p align="justify">
+		Тема &quot;основательного внимания&quot; проходит красной нитью через все этапы буддийского пути &ndash; развитие нравственности, сосредоточения и мудрости. По сути это такая направленность внимания, при которой устраняются неумелые способы поведения и развиваются умелые, не допускаются неумелые поступки и поощряются умелые. В данной сутте приведены самые разные контексты такого применения основательного внимания и основательной рефлексии &ndash; от избегания опасных мест до развития факторов Пробуждения. В этих, казалось бы, несовместимых контестах применяется один и тот же методологический принцип основательного внимания (yoniso manasikāra). Внимание, направленное на основу, источник (yoni) явлений, позволяет сохранять здоровье и благополучие, совершенствовать нравственность и развивать ум.</p>
+	<p align="justify">
+		&nbsp;</p>
+	<hr />
+	<p class="left">
+		&nbsp;</p>
+	<table border="0" cellpadding="1" cellspacing="1">
+		<tbody>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						Eva.m me suta.m &ndash; eka.m samaya.m bhagavā sāvatthiya.m viharati jetavane anāthapi.n.dikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi&ndash; &quot;bhikkhavo&quot;ti. &quot;Bhadante&quot;ti te bhikkhū bhagavato paccassosu.m. Bhagavā etadavoca&ndash; &quot;sabbāsavasa.mvarapariyāya.m vo, bhikkhave, desessāmi. Ta.m su.nātha sādhuka.m manasi karotha, bhāsissāmī&quot;ti. &quot;Eva.m, bhante&quot;ti kho te bhikkhū bhagavato paccassosu.m. Bhagavā etadavoca-</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						Так я слышал: однажды Благословенный пребывал в Саваттхи, в парке Анатхапиндики, в лесу Джеты. И вот Благословенный обратился там к монахам:</p>
+					<p>
+						&ndash; Монахи!</p>
+					<p>
+						&ndash; Господин! &ndash; ответили ему монахи.</p>
+					<p>
+						Благословенный сказал:</p>
+					<p>
+						&ndash; Монахи, я преподам вам урок об обуздании всех влечений. Слушайте внимательно то, что я скажу.</p>
+					<p>
+						&ndash; Да, господин! &ndash; ответили ему монахи.</p>
+					<p>
+						Благословенный сказал:</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Jānato aha.m, bhikkhave, passato āsavāna.m khaya.m vadāmi, no ajānato no apassato. Ki&ntilde;ca, bhikkhave, jānato ki&ntilde;ca passato āsavāna.m khaya.m vadāmi? Yoniso ca manasikāra.m ayoniso ca manasikāra.m. Ayoniso, bhikkhave, manasikaroto anuppannā ceva āsavā uppajjanti, uppannā ca āsavā pava.d.dhanti; yoniso ca kho, bhikkhave, manasikaroto anuppannā ceva āsavā na uppajjanti, uppannā ca āsavā pahīyanti.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						&ndash; Монахи, я утверждаю, что влечения прекращаются у знающего и постигающего, а не у не знающего и не постигающего. Что знающего и что постигающего? Основательное внимание и неосновательное внимание. Монахи, у того, кто не основательно обращает внимание, возникают еще не возникшие влечения, и возрастают уже возникшие. А у того, кто основательно обращает внимание, еще не возникшие влечения так и не возникают, а уже возникшие устраняются.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Atthi, bhikkhave, āsavā dassanā pahātabbā, atthi āsavā sa.mvarā pahātabbā, atthi āsavā pa.tisevanā pahātabbā, atthi āsavā adhivāsanā pahātabbā, atthi āsavā parivajjanā pahātabbā, atthi āsavā vinodanā pahātabbā, atthi āsavā bhāvanā pahātabbā.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						Монахи, есть влечения, которые следует устранять с помощью <i>постижения</i>. Есть влечения, которые следует устранять с помощью <i>обуздания</i>. Есть влечения, которые следует устранять с помощью <i>использования</i>. Есть влечения, которые следует устранять с помощью <i>выдержки</i>. Есть влечения, которые следует устранять с помощью <i>избегания.</i> Есть влечения, которые следует устранять с помощью <i>изгнания.</i> Есть влечения, которые следует устранять с помощью <i>развития.</i></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<h3  class="center">
+						<a name="_Toc61755338"><b>Dassanā pahātabbāsavā</b></a></h3>
+				</td>
+				<td valign="top" width="50%">
+					<h3  class="center">
+						<b>Влечения, устраняемые с помощью постижения</b></h3>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Katame ca, bhikkhave, āsavā dassanā pahātabbā? Idha, bhikkhave assutavā puthujjano&ndash; ariyāna.m adassāvī ariyadhammassa akovido ariyadhamme avinīto, sappurisāna.m adassāvī sappurisadhammassa akovido sappurisadhamme avinīto&ndash; manasikara.nīye dhamme nappajānāti, amanasikara.nīye dhamme nappajānāti. So manasikara.nīye dhamme appajānanto amanasikara.nīye dhamme appajānanto, ye dhammā na manasikara.nīyā, te dhamme manasi karoti, ye dhammā manasikara.nīyā te dhamme na manasi karoti.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						И какие же влечения, монахи, следует устранять с помощью постижения? При этом, монахи, необразованный простолюдин, который не встречается с Благородными личностями, не разбирается в учении Благородных, не обучен учению Благородных; не встречается с праведными людьми, не разбирается в учении праведных, не обучен учению праведных людей, &ndash; не различает, на какие качества следует обращать внимание и на какие качества не следует обращать внимания. И не различая того, на какие качества следует обращать внимание, а на какие не следует, он обращает внимание на те качества, которые не заслуживают внимания, и не обращает внимания на те качества, которые заслуживают внимания.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Katame ca, bhikkhave, dhammā na manasikara.nīyā ye dhamme manasi karoti? Yassa, bhikkhave, dhamme manasikaroto anuppanno vā kāmāsavo uppajjati, uppanno vā kāmāsavo pava.d.dhati; anuppanno vā bhavāsavo uppajjati, uppanno vā bhavāsavo pava.d.dhati; anuppanno vā avijjāsavo uppajjati, uppanno vā avijjāsavo pava.d.dhati&ndash; ime dhammā na manasikara.nīyā ye dhamme manasi karoti.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						И на какие же качества, не заслуживающие внимания, он обращает внимание? На те качества, при обращении внимания на которые возникает до тех пор не возникшее <i>влечение к чувственным удовольствиям</i>, или возрастает уже возникшее влечение к чувственным удовольствиям, или возникает до тех пор не возникшее <i>влечение к становлению</i>, или возрастает уже возникшее влечение к становлению, или возникает до тех пор не возникшее <i>влечение к неведению</i>, или возрастает уже возникшее влечение к неведению. Вот на какие качества, не заслуживающие внимания, он обращает внимание.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Katame ca, bhikkhave, dhammā manasikara.nīyā ye dhamme na manasi karoti? Yassa, bhikkhave, dhamme manasikaroto anuppanno vā kāmāsavo na uppajjati, uppanno vā kāmāsavo pahīyati; anuppanno vā bhavāsavo na uppajjati, uppanno vā bhavāsavo pahīyati; anuppanno vā avijjāsavo na uppajjati, uppanno vā avijjāsavo pahīyati&ndash; ime dhammā manasikara.nīyā ye dhamme na manasi karoti.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						И на какие же качества, заслуживающие внимания, он не обращает внимания? На те качества, при обращении внимания на которые не возникает до тех пор не возникшее <i>влечение к чувственным удовольствиям</i>, или устраняется уже возникшее влечение к чувственным удовольствиям, или не возникает до тех пор не возникшее <i>влечение к становлению</i>, или устраняется уже возникшее влечение к становлению, или не возникает до тех пор не возникшее <i>влечение к неведению</i>, или устраняется уже возникшее влечение к неведению. Вот на какие качества, заслуживающие внимания, он не обращает внимания.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Tassa amanasikara.nīyāna.m dhammāna.m manasikārā manasikara.nīyāna.m dhammāna.m amanasikārā anuppannā ceva āsavā uppajjanti uppannā ca āsavā pava.d.dhanti.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						Из-за обращения внимания на не заслуживающие внимания качества и не обращения внимания на заслуживающие внимания качества у него возникают до тех пор не возникшие влечения, и возрастают уже возникшие.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;So eva.m ayoniso manasi karoti&ndash; &#39;ahosi.m nu kho aha.m atītamaddhāna.m? Na nu kho ahosi.m atītamaddhāna.m? Ki.m nu kho ahosi.m atītamaddhāna.m? Katha.m nu kho ahosi.m atītamaddhāna.m? Ki.m hutvā ki.m ahosi.m nu kho aha.m atītamaddhāna.m? Bhavissāmi nu kho aha.m anāgatamaddhāna.m? Na nu kho bhavissāmi anāgatamaddhāna.m? Ki.m nu kho bhavissāmi anāgatamaddhāna.m? Katha.m nu kho bhavissāmi anāgatamaddhāna.m? Ki.m hutvā ki.m bhavissāmi nu kho aha.m anāgatamaddhānan&#39;ti?</p>
+					<p>
+						Etarahi vā paccuppannamaddhāna.m ajjhatta.m katha.mkathī hoti&ndash; &#39;aha.m nu khosmi? No nu khosmi? Ki.m nu khosmi? Katha.m nu khosmi? Aya.m nu kho satto kuto āgato? So kuhi.m gāmī bhavissatī&#39;ti?</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						Вот как он неосновательно обращает внимание: &quot;Существовал ли я в прошлой жизни, или не существовал? Кем же я был в прошлой жизни? Каким же образом я существовал в прошлой жизни? Кем быв, кем я стал в прошлой жизни? Буду ли я существовать в грядущей жизни, или не буду? Кем же я буду в грядущей жизни? Каким же образом я буду существовать в грядущей жизни? Кем быв, кем я стану в грядущей жизни?</p>
+					<p>
+						Или тогда в нем возникает сомнение относительно текущей жизни: &quot;Существую ли я, или нет? Кто же я есть? Каким же образом я существую? Откуда же пришло это существо? Куда же оно отправится?</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Tassa eva.m ayoniso manasikaroto channa.m di.t.thīna.m a&ntilde;&ntilde;atarā di.t.thi uppajjati. &#39;Atthi me attā&#39;ti vā assa saccato thetato di.t.thi uppajjati; &#39;natthi me attā&#39;ti vā assa saccato thetato di.t.thi uppajjati; &#39;attanāva attāna.m sa&ntilde;jānāmī&#39;ti vā assa saccato thetato di.t.thi uppajjati; &#39;attanāva anattāna.m sa&ntilde;jānāmī&#39;ti vā assa saccato thetato di.t.thi uppajjati; &#39;anattanāva attāna.m sa&ntilde;jānāmī&#39;ti vā assa saccato thetato di.t.thi uppajjati; atha vā panassa eva.m di.t.thi hoti&ndash; &#39;yo me aya.m attā vado vedeyyo tatra tatra kalyā.napāpakāna.m kammāna.m vipāka.m pa.tisa.mvedeti so kho pana me aya.m attā nicco dhuvo sassato avipari.nāmadhammo sassatisama.m tatheva .thassatī&#39;ti.</p>
+					<p>
+						Ida.m vuccati, bhikkhave di.t.thigata.m di.t.thigahana.m di.t.thikantāra.m di.t.thivisūka.m di.t.thivipphandita.m di.t.thisa.myojana.m. Di.t.thisa.myojanasa.myutto, bhikkhave, assutavā puthujjano na parimuccati jātiyā jarāya mara.nena sokehi paridevehi dukkhehi domanassehi upāyāsehi; &#39;na parimuccati dukkhasmā&#39;ti vadāmi.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						У того, кто таким образом не основательно обращает внимание, возникает одно из шести воззрений. У него возникает как истинное и верное воззрение: <i>&quot;У меня есть &quot;Я&quot;&quot;,</i> или у него возникает как истинное и верное воззрение <i>&quot;У меня нет &quot;Я&quot;&quot;,</i> или у него возникает как истинное и верное воззрение <i>&quot;Собой я распознаю себя&quot;</i>, или у него возникает как истинное и верное воззрение <i>&quot;Собой я распознаю не-себя&quot;</i>, или у него возникает как истинное и верное воззрение <i>&quot;Не-собой я распознаю себя&quot;.</i></p>
+					<p>
+						Или же у него появляется воззрение: &quot;Вот это моё &quot;Я&quot;, которое говорит и чувствует, испытывает то здесь, то там последствия добрых и злых дел, но это моё &quot;Я&quot; неизменно, постоянно, вечно, не подвержено превратностям, и пребудет на вечные времена&quot;.</p>
+					<p>
+						Вот что, монахи, называется теоретизированием, зарослями воззрений, глухоманью воззрений, суматохой воззрений, судорогой воззрений, путами воззрений. Говорю вам, монахи, что опутанный путами воззрений необразованный простолюдин не освобождается от рождения, старения и смерти, от оплакиваний, мучений, уныний, раздражений, &ndash; он не освобождается от страдания.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Sutavā ca kho, bhikkhave, ariyasāvako&ndash; ariyāna.m dassāvī ariyadhammassa kovido ariyadhamme suvinīto, sappurisāna.m dassāvī sappurisadhammassa kovido sappurisadhamme suvinīto&ndash; manasikara.nīye dhamme pajānāti amanasikara.nīye dhamme pajānāti. So manasikara.nīye dhamme pajānanto amanasikara.nīye dhamme pajānanto ye dhammā na manasikara.nīyā te dhamme na manasi karoti, ye dhammā manasikara.nīyā te dhamme manasi karoti.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						А образованный ученик Благородных, встречающийся с благородными, разбирающийся в учении Благородных, хорошо обученный учению Благородных, встречающийся с праведными людьми, разбирающийся в учении праведных людей, хорошо обученный учению праведных людей, &ndash; различает, на какие качества следует обращать внимание и на какие качества не следует. Различая это, он не обращает внимания на те качества, которые не заслуживают внимания, и обращает внимание на те качества, которые заслуживают внимания.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Katame ca, bhikkhave, dhammā na manasikara.nīyā ye dhamme na manasi karoti? Yassa, bhikkhave, dhamme manasikaroto anuppanno vā kāmāsavo uppajjati, uppanno vā kāmāsavo pava.d.dhati; anuppanno vā bhavāsavo uppajjati, uppanno vā bhavāsavo pava.d.dhati; anuppanno vā avijjāsavo uppajjati, uppanno vā avijjāsavo pava.d.dhati&ndash; ime dhammā na manasikara.nīyā, ye dhamme na manasi karoti.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						Каковы же, монахи, те не заслуживающие внимания качества, на которые он не обращает внимания? Монахи, те качества, при обращении внимания на которые возникает до тех пор не возникшее <i>влечение к чувственным удовольствиям</i>, или возрастает уже возникшее влечение к чувственным удовольствиям, или возникает до тех пор не возникшее <i>влечение к становлению</i>, или возрастает уже возникшее влечение к становлению, или возникает до тех пор не возникшее <i>влечение к неведению</i>, или возрастает уже возникшее влечение к неведению. Вот на какие качества, не заслуживающие внимания, он не обращает внимания.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Katame ca, bhikkhave, dhammā manasikara.nīyā ye dhamme manasi karoti? Yassa, bhikkhave, dhamme manasikaroto anuppanno vā kāmāsavo na uppajjati, uppanno vā kāmāsavo pahīyati; anuppanno vā bhavāsavo na uppajjati uppanno vā bhavāsavo pahīyati; anuppanno vā avijjāsavo na uppajjati, uppanno vā avijjāsavo pahīyati&ndash; ime dhammā manasikara.nīyā ye dhamme manasi karoti.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						Каковы же, монахи, те заслуживающие внимания качества, на которые он обращает внимание? Монахи, те качества, при обращении внимания на которые не возникает до тех пор не возникшее <i>влечение к чувственным удовольствиям</i>, или устраняется уже возникшее влечение к чувственным удовольствиям, или не возникает до тех пор не возникшее <i>влечение к становлению</i>, или устраняется уже возникшее влечение к становлению, или не возникает до тех пор не возникшее <i>влечение к неведению</i>, или устраняется уже возникшее влечение к неведению. Вот на какие качества, заслуживающие внимания, он обращает внимание.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Tassa amanasikara.nīyāna.m dhammāna.m amanasikārā manasikara.nīyāna.m dhammāna.m manasikārā anuppannā ceva āsavā na uppajjanti, uppannā ca āsavā pahīyanti.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						Благодаря не обращению внимания на не заслуживающие внимания качества и обращения внимания на заслуживающие внимания качества у него не возникают еще не возникшие влечения, и устраняются уже возникшие.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;So &#39;ida.m dukkhan&#39;ti yoniso manasi karoti, &#39;aya.m dukkhasamudayo&#39;ti yoniso manasi karoti, &#39;aya.m dukkhanirodho&#39;ti yoniso manasi karoti, &#39;aya.m dukkhanirodhagāminī pa.tipadā&#39;ti yoniso manasi karoti. Tassa eva.m yoniso manasikaroto tī.ni sa.myojanāni pahīyanti&ndash; sakkāyadi.t.thi, vicikicchā, sīlabbataparāmāso. Ime vuccanti, bhikkhave, āsavā dassanā pahātabbā.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						Он основательно обращает внимание: &quot;Это страдание&quot;; он основательно обращает внимание: &quot;Это возникновение страдания&quot;; он основательно обращает внимание: &quot;Это прекращение страдания&quot;; он основательно обращает внимание: &quot;Это путь, ведущий к прекращению страдания&quot;. Когда он так основательно обращает внимание, у него устраняются трое пут: убеждение в индивидуальности, неуверенность, подверженность правилам и обетам. Они называются влечениями, которые следует устранять с помощью постижения.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<h3  class="center">
+						<a name="_Toc61755339"><b>Sa.mvarā pahātabbāsavā</b></a></h3>
+				</td>
+				<td valign="top" width="50%">
+					<h3  class="center">
+						<b>Влечения, устраняемые с помощью обуздания</b></h3>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Katame ca, bhikkhave, āsavā sa.mvarā pahātabbā? Idha, bhikkhave, bhikkhu pa.tisa&#39;nkhā yoniso cakkhundriyasa.mvarasa.mvuto viharati. Ya&ntilde;hissa, bhikkhave, cakkhundriyasa.mvara.m asa.mvutassa viharato uppajjeyyu.m āsavā vighātapari.lāhā, cakkhundriyasa.mvara.m sa.mvutassa viharato eva.msa te āsavā vighātapari.lāhā na honti. Pa.tisa&#39;nkhā yoniso sotindriyasa.mvarasa.mvuto viharati ...pe... ghānindriyasa.mvarasa.mvuto viharati ...pe... jivhindriyasa.mvarasa.mvuto viharati ...pe... kāyindriyasa.mvarasa.mvuto viharati ...pe... manindriyasa.mvarasa.mvuto viharati. Ya&ntilde;hissa, bhikkhave manindriyasa.mvara.m asa.mvutassa viharato uppajjeyyu.m āsavā vighātapari.lāhā, manindriyasa.mvara.m sa.mvutassa viharato eva.msa te āsavā vighātapari.lāhā na honti.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						И какие же влечения, монахи, следует устранять с помощью обуздания? При этом монах, основательно рефлексируя, постоянно обуздан обузданием <i>зрения. </i>Монахи, те влечения, досады и перевозбуждения, которые могут возникнуть у того, кто не обуздан постоянно обузданием зрения, не возникают у того, кто обуздан постоянно обузданием зрения.</p>
+					<p>
+						Основательно рефлексируя, он постоянно обуздан обузданием <i>слуха.</i> Монахи, те влечения, досады и перевозбуждения, которые могут возникнуть у того, кто не обуздан постоянно обузданием слуха, не возникают у того, кто обуздан постоянно обузданием слуха.</p>
+					<p>
+						Основательно рефлексируя, он постоянно обуздан обузданием <i>обоняния.</i> Монахи, те влечения, досады и перевозбуждения, которые могут возникнуть у того, кто не обуздан постоянно обузданием обоняния, не возникают у того, кто обуздан постоянно обузданием обоняния.</p>
+					<p>
+						Основательно рефлексируя, он постоянно обуздан обузданием <i>чувства вкуса</i>. Монахи, те влечения, досады и перевозбуждения, которые могут возникнуть у того, кто не обуздан постоянно обузданием чувства вкуса, не возникают у того, кто обуздан постоянно обузданием чувства вкуса.</p>
+					<p>
+						Основательно рефлексируя, он постоянно обуздан обузданием <i>тактильного ощущения.</i> Монахи, те влечения, досады и перевозбуждения, которые могут возникнуть у того, кто не обуздан постоянно обузданием тактильного ощущения, не возникают у того, кто обуздан постоянно обузданием тактильного ощущения.</p>
+					<p>
+						Основательно рефлексируя, он постоянно обуздан обузданием <i>рассудка.</i> Монахи, те влечения, досады и перевозбуждения, которые могут возникнуть у того, кто не обуздан постоянно обузданием рассудка, не возникают у того, кто обуздан постоянно обузданием рассудка.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Ya&ntilde;hissa, bhikkhave, sa.mvara.m asa.mvutassa viharato uppajjeyyu.m āsavā vighātapari.lāhā sa.mvara.m sa.mvutassa viharato eva.msa te āsavā vighātapari.lāhā na honti. Ime vuccanti, bhikkhave, āsavā sa.mvarā pahātabbā.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						Монахи, те влечения, досады и перевозбуждения, которые могут возникнуть у того, кто не обуздан постоянно обузданием, не возникают у того, кто обуздан постоянно обузданием. Монахи, вот что называется влечениями, которые следует устранять с помощью обуздания.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<h3  class="center">
+						<a name="_Toc61755340"><b>Pa.tisevanā pahātabbāsavā</b></a></h3>
+				</td>
+				<td valign="top" width="50%">
+					<h3  class="center">
+						<b>Влечения, устраняемые с помощью использования</b></h3>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Katame ca, bhikkhave, āsavā pa.tisevanā pahātabbā? Idha, bhikkhave, bhikkhu pa.tisa&#39;nkhā yoniso cīvara.m pa.tisevati&ndash; &#39;yāvadeva sītassa pa.tighātāya, u.nhassa pa.tighātāya, .da.msamakasavātātapasarī.msapa- samphassāna.m pa.tighātāya, yāvadeva hirikopīnappa.ticchādanattha.m&#39;.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						И какие же влечения, монахи, следует устранять с помощью использования? При этом монах, основательно рефлексируя, использует монашескую накидку лишь по мере надобности, для защиты от холода, для защиты от жары, от контакта с оводами, комарами, ветром, солнцем, пресмыкающимися, по мере надобности для сокрытия половых органов.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Pa.tisa&#39;nkhā yoniso pi.n.dapāta.m pa.tisevati&ndash; &#39;neva davāya, na madāya, na ma.n.danāya, na vibhūsanāya, yāvadeva imassa kāyassa .thitiyā yāpanāya, vihi.msūparatiyā, brahmacariyānuggahāya, iti purā.na&ntilde;ca vedana.m pa.tiha&#39;nkhāmi nava&ntilde;ca vedana.m na uppādessāmi, yātrā ca me bhavissati anavajjatā ca phāsuvihāro ca&#39; .</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						Основательно рефлексируя, он использует полученную как подаяние еду не для забавы, не для опьянения, не для украшения, не для повышения привлекательности, а лишь по мере надобности для выносливости и жизнеспособности тела, для прекращения травм, и способствования праведной жизни, рассуждая: &quot;Таким образом я устраню прежнее чувство (голода) и не вызову новое чувство (переедания), чтобы у меня было пропитание, безупречность и приятное состояние.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Pa.tisa&#39;nkhā yoniso senāsana.m pa.tisevati&ndash; &#39;yāvadeva sītassa pa.tighātāya, u.nhassa pa.tighātāya, .da.msamakasavātātapasarī.msapasamphassāna.m pa.tighātāya, yāvadeva utuparissayavinodanapa.tisallānārāmattha.m&#39;.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						Основательно рефлексируя, он использует жильё лишь по мере надобности для защиты от холода, для защиты от жары, от контакта с оводами, комарами, ветром, солнцем, пресмыкающимися, по мере надобности для избавления от ненастья, ради радости (медитативного) уединения.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Pa.tisa&#39;nkhā yoniso gilānappaccayabhesajjaparikkhāra.m pa.tisevati&ndash; &#39;yāvadeva uppannāna.m veyyābādhikāna.m vedanāna.m pa.tighātāya, abyābajjhaparamatāya&#39; .</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						Основательно рефлексируя, он использует лечебные принадлежности, приспособления и лекарства лишь по мере надобности, для защиты от возникших травматических чувств, ради максимального благополучия.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Ya&ntilde;hissa, bhikkhave, appa.tisevato uppajjeyyu.m āsavā vighātapari.lāhā, pa.tisevato eva.msa te āsavā vighātapari.lāhā na honti. Ime vuccanti, bhikkhave, āsavā pa.tisevanā pahātabbā.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						Монахи, те влечения, досады и перевозбуждения, которые могут возникнуть у не использующего так (монашеские принадлежности), не возникают у так их использующего. Монахи, вот что называется влечениями, которые следует устранять с помощью использования.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<h3  class="center">
+						<a name="_Toc61755341"><b>Adhivāsanā pahātabbāsavā</b></a></h3>
+				</td>
+				<td valign="top" width="50%">
+					<h3  class="center">
+						<b>Влечения, устраняемые с помощью выдержки</b></h3>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Katame ca, bhikkhave, āsavā adhivāsanā pahātabbā? Idha, bhikkhave, bhikkhu pa.tisa&#39;nkhā yoniso khamo hoti sītassa u.nhassa, jighacchāya pipāsāya. .Da.msamakasavātātapasarī.msapasamphassāna.m, duruttāna.m durāgatāna.m vacanapathāna.m, uppannāna.m sārīrikāna.m vedanāna.m dukkhāna.m tibbāna.m kharāna.m ka.tukāna.m asātāna.m amanāpāna.m pā.naharāna.m adhivāsakajātiko hoti.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						И какие же влечения, монахи, следует устранять с помощью выдержки? При этом монах, основательно рефлексируя, терпеливо переносит холод и жару, голод и жажду. Он обладает выдержкой по отношению к контакту с оводами, комарами, ветром, солнцем, пресмыкающимися, по отношению к неприветливой, неприязненной речи, к возникшим мучительным, острым, резким, жгучим, тягостным, неприятным, губительным телесным чувствам.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Ya&ntilde;hissa, bhikkhave, anadhivāsayato uppajjeyyu.m āsavā vighātapari.lāhā, adhivāsayato eva.msa te āsavā vighātapari.lāhā na honti. Ime vuccanti, bhikkhave, āsavā adhivāsanā pahātabbā.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						Монахи, те влечения, досады и перевозбуждения, которые могут возникнуть у не проявляющего выдержку, не возникают у проявляющего выдержку. Монахи, вот что называется влечениями, которые следует устранять с помощью выдержки.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<h3  class="center">
+						<a name="_Toc61755342"><b>Parivajjanā pahātabbāsavā</b></a></h3>
+				</td>
+				<td valign="top" width="50%">
+					<h3  class="center">
+						<b>Влечения, устраняемые с помощью избегания</b></h3>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Katame ca, bhikkhave, āsavā parivajjanā pahātabbā? Idha, bhikkhave, bhikkhu pa.tisa&#39;nkhā yoniso ca.n.da.m hatthi.m parivajjeti, ca.n.da.m assa.m parivajjeti, ca.n.da.m go.na.m parivajjeti, ca.n.da.m kukkura.m parivajjeti, ahi.m khā.nu.m ka.n.taka.t.thāna.m sobbha.m papāta.m candanika.m o.ligalla.m. Yathārūpe anāsane nisinna.m yathārūpe agocare caranta.m yathārūpe pāpake mitte bhajanta.m vi&ntilde;&ntilde;ū sabrahmacārī pāpakesu .thānesu okappeyyu.m, so ta&ntilde;ca anāsana.m ta&ntilde;ca agocara.m te ca pāpake mitte pa.tisa&#39;nkhā yoniso parivajjeti.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						И какие же влечения, монахи, следует устранять с помощью избегания? При этом монах, основательно рефлексируя, избегает вспыльчивых слонов, вспыльчивых лошадей, вспыльчивых быков, вспыльчивых собак, змей, пеньков, колючих зарослей, ям, пропастей, отстойников и помойных ям.</p>
+					<p>
+						Основательно рефлексируя, он избегает сидеть в неподходящих местах, вращаться в неподходящей среде и водиться с дурными друзьями, поскольку если бы он поступал так, то мудрые товарищи по праведной жизни могли бы посчитать у него возможными дурные мотивы поступков.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Ya&ntilde;hissa, bhikkhave, aparivajjayato uppajjeyyu.m āsavā vighātapari.lāhā, parivajjayato eva.msa te āsavā vighātapari.lāhā na honti. Ime vuccanti, bhikkhave, āsavā parivajjanā pahātabbā.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						Монахи, те влечения, досады и перевозбуждения, которые могут возникнуть у того, кто не избегает этих вещей, не возникают у того, кто избегает их. Монахи, вот что называется влечениями, которые следует устранять с помощью избегания.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<h3  class="center">
+						<a name="_Toc61755343"><b>Vinodanā pahātabbāsavā</b></a></h3>
+				</td>
+				<td valign="top" width="50%">
+					<h3  class="center">
+						<b>Влечения, устраняемые с помощью изгнания</b></h3>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Katame ca, bhikkhave, āsavā vinodanā pahātabbā? Idha, bhikkhave, bhikkhu pa.tisa&#39;nkhā yoniso uppanna.m kāmavitakka.m nādhivāseti pajahati vinodeti byantīkaroti anabhāva.m gameti, uppanna.m byāpādavitakka.m ...pe... uppanna.m vihi.msāvitakka.m ...pe... uppannuppanne pāpake akusale dhamme nādhivāseti pajahati vinodeti byantīkaroti anabhāva.m gameti.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						И какие же влечения, монахи, следует устранять с помощью изгнания? При этом монах, основательно рефлексируя, не терпит возникшей <i>мысли чувственного желания</i>, отбрасывает, изгоняет и прекращает её, кладет ей конец. Основательно рефлексируя, он не терпит возникшей <i>мысли недоброжелательности</i>, отбрасывает, изгоняет и прекращает её, кладет ей конец. Основательно рефлексируя, он не терпит возникшей <i>мысли причинения вреда</i>, отбрасывает, изгоняет и прекращает её, кладет ей конец. Основательно рефлексируя, он не терпит возникших <i>порочных неумелых способов поведения</i>, отбрасывает, изгоняет и прекращает их, кладет им конец.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Ya&ntilde;hissa, bhikkhave, avinodayato uppajjeyyu.m āsavā vighātapari.lāhā, vinodayato eva.msa te āsavā vighātapari.lāhā na honti. Ime vuccanti, bhikkhave, āsavā vinodanā pahātabbā.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						Монахи, те влечения, досады и перевозбуждения, которые могут возникнуть у не изгоняющего (эти вещи), не возникают у изгоняющего. Монахи, вот что называется влечениями, которые следует устранять с помощью изгнания.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<h3  class="center">
+						<a name="_Toc61755344"><b>Bhāvanā pahātabbāsavā</b></a></h3>
+				</td>
+				<td valign="top" width="50%">
+					<h3  class="center">
+						<b>Влечения, устраняемые с помощью развития</b></h3>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+				<td valign="top" width="50%">
+					&nbsp;</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Katame ca, bhikkhave, āsavā bhāvanā pahātabbā? Idha, bhikkhave, bhikkhu pa.tisa&#39;nkhā yoniso satisambojjha&#39;nga.m bhāveti vivekanissita.m virāganissita.m nirodhanissita.m vossaggapari.nāmi.m; pa.tisa&#39;nkhā yoniso dhammavicayasambojjha&#39;nga.m bhāveti ...pe... vīriyasambojjha&#39;nga.m bhāveti... pītisambojjha&#39;nga.m bhāveti... passaddhisambojjha&#39;nga.m bhāveti... samādhisambojjha&#39;nga.m bhāveti... upekkhāsambojjha&#39;nga.m bhāveti vivekanissita.m virāganissita.m nirodhanissita.m vossaggapari.nāmi.m.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						И какие же влечения, монахи, следует устранять с помощью развития? При этом монах, основательно рефлексируя, развивает <i>памятование</i> как фактор Пробуждения, основанный на уединении, бесстрастии, прекращении, приводящий к оставлению. Основательно рефлексируя, он развивает <i>различение умственных качеств </i>как фактор Пробуждения, основанный на уединении, бесстрастии, прекращении, приводящий к оставлению. Основательно рефлексируя, он развивает <i>усердие </i>как фактор Пробуждения, основанный на уединении, бесстрастии, прекращении, приводящий к оставлению. Основательно рефлексируя, он развивает <i>восторг</i> как фактор Пробуждения, основанный на уединении, бесстрастии, прекращении, приводящий к оставлению. Основательно рефлексируя, он развивает <i>успокоение</i> как фактор Пробуждения, основанный на уединении, бесстрастии, прекращении, приводящий к оставлению. Основательно рефлексируя, он развивает <i>сосредоточение</i> как фактор Пробуждения, основанный на уединении, бесстрастии, прекращении, приводящий к оставлению. Основательно рефлексируя, он развивает <i>безмятежное наблюдение</i> как фактор Пробуждения, основанный на уединении, бесстрастии, прекращении, приводящий к оставлению.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Ya&ntilde;hissa, bhikkhave abhāvayato uppajjeyyu.m āsavā vighātapari.lāhā, bhāvayato eva.msa te āsavā vighātapari.lāhā na honti. Ime vuccanti, bhikkhave, āsavā bhāvanā pahātabbā.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						Те влечения, досады и перевозбуждения, которые могут возникнуть у не развивающего (эти факторы), не возникают у развивающего. Монахи, вот что называется влечениями, которые следует устранять с помощью развития.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						&quot;Yato kho, bhikkhave, bhikkhuno ye āsavā dassanā pahātabbā te dassanā pahīnā honti, ye āsavā sa.mvarā pahātabbā te sa.mvarā pahīnā honti, ye āsavā pa.tisevanā pahātabbā te pa.tisevanā pahīnā honti, ye āsavā adhivāsanā pahātabbā te adhivāsanā pahīnā honti, ye āsavā parivajjanā pahātabbā te parivajjanā pahīnā honti, ye āsavā vinodanā pahātabbā te vinodanā pahīnā honti, ye āsavā bhāvanā pahātabbā te bhāvanā pahīnā honti; aya.m vuccati, bhikkhave&ndash; &#39;bhikkhu sabbāsavasa.mvarasa.mvuto viharati, acchecchi ta.nha.m, vivattayi sa.myojana.m, sammā mānābhisamayā antamakāsi dukkhassā&#39;&quot;ti.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						Когда у монаха устранены с помощью <i>постижения</i> те влечения, которые следует устранять с помощью постижения, устранены с помощью <i>обуздания</i> те влечения, которые следует устранять с помощью обуздания, устранены с помощью <i>использования</i> те влечения, которые следует устранять с помощью использования, устранены с помощью<i> выдержки </i>те влечения, которые следует устранять с помощью выдержки, устранены с помощью <i>избегания</i> те влечения, которые следует устранять с помощью избегания, устранены с помощью <i>изгнания</i> те влечения, которые следует устранять с помощью изгнания, устранены с помощью <i>развития</i> те влечения, которые следует устранять с помощью развития, &ndash; то он называется монахом, постоянно обузданным обузданием всех влечений. Он пресек жажду, избавился от пут, и с полным постижением самомнения положил конец страданию.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" width="50%">
+					<p>
+						Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsita.m abhinandunti.</p>
+				</td>
+				<td valign="top" width="50%">
+					<p>
+						Так сказал Благословенный. Обрадованные, монахи восхитились словам Благословенного.</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+</main><a class="top" href="#top">▲</a>
+</body>
+</html>

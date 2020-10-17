@@ -1,0 +1,1037 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <title>Русское Дзендо</title>
+  <meta name="description" content="Дзенская практика на русском языке">
+  <meta name="author" content="Постоянное Озарение">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+<nav>
+<a href="/">Что</a>
+<a href="/q-a">Вопросы</a>
+<a href="/guide">Путеводитель</a>
+<a href="/texts">Тексты</a>
+<a href="/video">Видео</a>
+<a href="/blog">Дневник</a>
+</nav>
+<main><span id="language"></span> <span id="modified">v. 2016-04-13</span>
+<h2 id="author">Постоянное Озарение</h2>
+<h1 id="title">Буддийский календарь 2015</h1>
+<p>{source}</p>
+<p>&lt;style type="text/css"&gt;<br />table {<br />border-collapse: separate;<br />border-spacing: 1px;<br />}<br />.calendar_frame {<br />border: 1px solid #AAAAAA;<br />padding: 5px;<br />}<br />.calendar_line {<br />background-color: #FFFFFF;<br />}<br />.calendar_month {<br />background-color: #E0EBE6;<br />}<br />.month_name {<br />background-color: #649B84;<br />color: #E0EBE6;<br />font-weight: bold;<br />padding: 2px;<br />}<br />.month_frame {<br />margin: 0;<br />}<br />.month_line {<br />}<br />.week_day, .week_day2 {<br />border: 1px solid #FFFFFF;<br />margin: 1px;<br />padding: 2px;<br />text-align: center;<br />width: 2em;<br />}<br />.month_day {<br />background-color: #FFFFFF;<br />border: 1px solid #999999;<br />margin: 1px;<br />padding: 2px;<br />text-align: right;<br />width: 2em;<br />}<br />.month_noday {<br />border: 1px solid #A2C3B4;<br />margin: 1px;<br />padding: 2px;<br />text-align: right;<br />width: 2em;<br />}<br />.holiday {<br />background-color: #FFCCCC;<br />border: 1px solid #999999;<br />margin: 1px;<br />padding: 2px;<br />text-align: right;<br />width: 2em;<br />}<br />.n {<br />background-color: #CCCCFF;<br />border: 1px solid #999999;<br />margin: 1px;<br />padding: 2px;<br />text-align: right;<br />width: 2em;<br />}<br />.q1, .q4 {<br />background-color: #CCFFCC;<br />border: 1px solid #999999;<br />margin: 1px;<br />padding: 2px;<br />text-align: right;<br />width: 2em;<br />}<br />.f {<br />background-color: #FFFFCC;<br />border: 1px solid #999999;<br />margin: 1px;<br />padding: 2px;<br />text-align: right;<br />width: 2em;<br />}<br />.legend {<br />background-color: #FFFFFF;<br />border: 0;<br />margin: 5px;<br />padding: 5px;<br />}<br />&lt;/style&gt;</p>
+<p>{/source}</p>
+<center>
+<h2>Буддийский календарь</h2>
+<h1>2015</h1>
+<table class="calendar_frame">
+<tbody>
+<tr class="calendar_line">
+<td class="calendar_month" valign="top">
+<div class="month_name">Январь</div>
+<table class="month_frame">
+<tbody>
+<tr class="month_line">
+<td class="week_day">Пн</td>
+<td class="month_noday"> </td>
+<td id="2015-1-05" class="holiday" title="Махаянский Новый Год">5</td>
+<td id="2015-1-12" class="month_day">12</td>
+<td id="2015-1-19" class="month_day">19</td>
+<td id="2015-1-26" class="month_day">26</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Вт</td>
+<td class="month_noday"> </td>
+<td id="2015-1-06" class="month_day">6</td>
+<td id="2015-1-13" class="q4" title="Упосатха (посл. четверть Луны)">13</td>
+<td id="2015-1-20" class="n" title="Упосатха (новолуние)">20</td>
+<td id="2015-1-27" class="q1" title="Упосатха (первая четверть Луны)">27</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Ср</td>
+<td class="month_noday"> </td>
+<td id="2015-1-07" class="month_day">7</td>
+<td id="2015-1-14" class="month_day">14</td>
+<td id="2015-1-21" class="n" title="Упосатха (новолуние)">21</td>
+<td id="2015-1-28" class="month_day">28</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Чт</td>
+<td id="2015-1-01" class="month_day">1</td>
+<td id="2015-1-08" class="month_day">8</td>
+<td id="2015-1-15" class="month_day">15</td>
+<td id="2015-1-22" class="month_day">22</td>
+<td id="2015-1-29" class="month_day">29</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Пт</td>
+<td id="2015-1-02" class="month_day">2</td>
+<td id="2015-1-09" class="month_day">9</td>
+<td id="2015-1-16" class="month_day">16</td>
+<td id="2015-1-23" class="month_day">23</td>
+<td id="2015-1-30" class="month_day">30</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Сб</td>
+<td id="2015-1-03" class="month_day">3</td>
+<td id="2015-1-10" class="month_day">10</td>
+<td id="2015-1-17" class="month_day">17</td>
+<td id="2015-1-24" class="month_day">24</td>
+<td id="2015-1-31" class="month_day">31</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Вс</td>
+<td id="2015-1-04" class="f" title="Упосатха (полнолуние)">4</td>
+<td id="2015-1-11" class="month_day">11</td>
+<td id="2015-1-18" class="month_day">18</td>
+<td id="2015-1-25" class="month_day">25</td>
+<td class="month_noday"> </td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Нед.</td>
+<td class="month_noday">1</td>
+<td class="month_noday">2</td>
+<td class="month_noday">3</td>
+<td class="month_noday">4</td>
+<td class="month_noday">5</td>
+<td class="month_noday"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="calendar_month" valign="top">
+<div class="month_name">Февраль</div>
+<table class="month_frame">
+<tbody>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-2-02" class="month_day">2</td>
+<td id="2015-2-09" class="month_day">9</td>
+<td id="2015-2-16" class="month_day">16</td>
+<td id="2015-2-23" class="month_day">23</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-2-03" class="f" title="Упосатха (полнолуние)">3</td>
+<td id="2015-2-10" class="month_day">10</td>
+<td id="2015-2-17" class="month_day">17</td>
+<td id="2015-2-24" class="month_day">24</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-2-04" class="f" title="Упосатха (полнолуние)">4</td>
+<td id="2015-2-11" class="month_day">11</td>
+<td id="2015-2-18" class="n" title="Упосатха (новолуние)">18</td>
+<td id="2015-2-25" class="q1" title="Упосатха (первая четверть Луны)">25</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-2-05" class="month_day">5</td>
+<td id="2015-2-12" class="q4" title="Упосатха (посл. четверть Луны)">12</td>
+<td id="2015-2-19" class="holiday" title="Китайский Новый Год">19</td>
+<td id="2015-2-26" class="month_day">26</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-2-06" class="month_day">6</td>
+<td id="2015-2-13" class="month_day">13</td>
+<td id="2015-2-20" class="month_day">20</td>
+<td id="2015-2-27" class="month_day">27</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-2-07" class="month_day">7</td>
+<td id="2015-2-14" class="month_day">14</td>
+<td id="2015-2-21" class="month_day">21</td>
+<td id="2015-2-28" class="month_day">28</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-2-01" class="month_day">1</td>
+<td id="2015-2-08" class="month_day">8</td>
+<td id="2015-2-15" class="holiday" title="День Паринирваны">15</td>
+<td id="2015-2-22" class="month_day">22</td>
+<td class="month_noday"> </td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday">5</td>
+<td class="month_noday">6</td>
+<td class="month_noday">7</td>
+<td class="month_noday">8</td>
+<td class="month_noday">9</td>
+<td class="month_noday"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="calendar_month" valign="top">
+<div class="month_name">Март</div>
+<table class="month_frame">
+<tbody>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-3-02" class="month_day">2</td>
+<td id="2015-3-09" class="month_day">9</td>
+<td id="2015-3-16" class="month_day">16</td>
+<td id="2015-3-23" class="month_day">23</td>
+<td id="2015-3-30" class="month_day">30</td>
+</tr>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-3-03" class="month_day">3</td>
+<td id="2015-3-10" class="month_day">10</td>
+<td id="2015-3-17" class="month_day">17</td>
+<td id="2015-3-24" class="month_day">24</td>
+<td id="2015-3-31" class="month_day">31</td>
+</tr>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-3-04" class="month_day">4</td>
+<td id="2015-3-11" class="month_day">11</td>
+<td id="2015-3-18" class="month_day">18</td>
+<td id="2015-3-25" class="month_day">25</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-3-05" class="holiday" title="Макха Буча">5</td>
+<td id="2015-3-12" class="month_day">12</td>
+<td id="2015-3-19" class="month_day">19</td>
+<td id="2015-3-26" class="month_day">26</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-3-06" class="f" title="Упосатха (полнолуние)">6</td>
+<td id="2015-3-13" class="q4" title="Упосатха (посл. четверть Луны)">13</td>
+<td id="2015-3-20" class="n" style="box-shadow: inset 0 0 3px #000;" title="Упосатха (новолуние). Полное солнечное затмение">20</td>
+<td id="2015-3-27" class="q1" title="Упосатха (первая четверть Луны)">27</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-3-07" class="month_day">7</td>
+<td id="2015-3-14" class="month_day">14</td>
+<td id="2015-3-21" class="n" title="Упосатха (новолуние)">21</td>
+<td id="2015-3-28" class="month_day">28</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-3-01" class="month_day">1</td>
+<td id="2015-3-08" class="month_day">8</td>
+<td id="2015-3-15" class="month_day">15</td>
+<td id="2015-3-22" class="month_day">22</td>
+<td id="2015-3-29" class="month_day">29</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday">9</td>
+<td class="month_noday">10</td>
+<td class="month_noday">11</td>
+<td class="month_noday">12</td>
+<td class="month_noday">13</td>
+<td class="month_noday">14</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr class="calendar_line">
+<td class="calendar_month" valign="top">
+<div class="month_name">Апрель</div>
+<table class="month_frame">
+<tbody>
+<tr class="month_line">
+<td class="week_day">Пн</td>
+<td class="month_noday"> </td>
+<td id="2015-4-06" class="month_day">6</td>
+<td id="2015-4-13" class="month_day">13</td>
+<td id="2015-4-20" class="month_day">20</td>
+<td id="2015-4-27" class="month_day">27</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Вт</td>
+<td class="month_noday"> </td>
+<td id="2015-4-07" class="month_day">7</td>
+<td id="2015-4-14" class="month_day">14</td>
+<td id="2015-4-21" class="month_day">21</td>
+<td id="2015-4-28" class="month_day">28</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Ср</td>
+<td id="2015-4-01" class="month_day">1</td>
+<td id="2015-4-08" class="month_day">8</td>
+<td id="2015-4-15" class="month_day">15</td>
+<td id="2015-4-22" class="month_day">22</td>
+<td id="2015-4-29" class="month_day">29</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Чт</td>
+<td id="2015-4-02" class="month_day">2</td>
+<td id="2015-4-09" class="month_day">9</td>
+<td id="2015-4-16" class="month_day">16</td>
+<td id="2015-4-23" class="month_day">23</td>
+<td id="2015-4-30" class="month_day">30</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Пт</td>
+<td id="2015-4-03" class="month_day">3</td>
+<td id="2015-4-10" class="month_day">10</td>
+<td id="2015-4-17" class="month_day">17</td>
+<td id="2015-4-24" class="month_day">24</td>
+<td class="month_noday"> </td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Сб</td>
+<td id="2015-4-04" class="holiday" style="box-shadow: inset 0 0 3px #000;" title="Новый год Тхеравады. Частичное лунное затмение">4</td>
+<td id="2015-4-11" class="month_day">11</td>
+<td id="2015-4-18" class="n" title="Упосатха (новолуние)">18</td>
+<td id="2015-4-25" class="month_day">25</td>
+<td class="month_noday"> </td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Вс</td>
+<td id="2015-4-05" class="f" title="Упосатха (полнолуние)">5</td>
+<td id="2015-4-12" class="q4" title="Упосатха (посл. четверть Луны)">12</td>
+<td id="2015-4-19" class="n" title="Упосатха (новолуние)">19</td>
+<td id="2015-4-26" class="q1" title="Упосатха (первая четверть Луны)">26</td>
+<td class="month_noday"> </td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Нед.</td>
+<td class="month_noday">14</td>
+<td class="month_noday">15</td>
+<td class="month_noday">16</td>
+<td class="month_noday">17</td>
+<td class="month_noday">18</td>
+<td class="month_noday"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="calendar_month" valign="top">
+<div class="month_name">Май</div>
+<table class="month_frame">
+<tbody>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-5-04" class="holiday" title="Весак – День Будды">4</td>
+<td id="2015-5-11" class="q4" title="Упосатха (посл. четверть Луны)">11</td>
+<td id="2015-5-18" class="n" title="Упосатха (новолуние)">18</td>
+<td id="2015-5-25" class="q1" title="Упосатха (первая четверть Луны)">25</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-5-05" class="month_day">5</td>
+<td id="2015-5-12" class="month_day">12</td>
+<td id="2015-5-19" class="month_day">19</td>
+<td id="2015-5-26" class="month_day">26</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-5-06" class="month_day">6</td>
+<td id="2015-5-13" class="month_day">13</td>
+<td id="2015-5-20" class="month_day">20</td>
+<td id="2015-5-27" class="month_day">27</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-5-07" class="month_day">7</td>
+<td id="2015-5-14" class="month_day">14</td>
+<td id="2015-5-21" class="month_day">21</td>
+<td id="2015-5-28" class="month_day">28</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-5-01" class="month_day">1</td>
+<td id="2015-5-08" class="month_day">8</td>
+<td id="2015-5-15" class="month_day">15</td>
+<td id="2015-5-22" class="month_day">22</td>
+<td id="2015-5-29" class="month_day">29</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-5-02" class="month_day">2</td>
+<td id="2015-5-09" class="month_day">9</td>
+<td id="2015-5-16" class="month_day">16</td>
+<td id="2015-5-23" class="month_day">23</td>
+<td id="2015-5-30" class="month_day">30</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-5-03" class="f" title="Упосатха (полнолуние)">3</td>
+<td id="2015-5-10" class="month_day">10</td>
+<td id="2015-5-17" class="n" title="Упосатха (новолуние)">17</td>
+<td id="2015-5-24" class="month_day">24</td>
+<td id="2015-5-31" class="month_day">31</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday">18</td>
+<td class="month_noday">19</td>
+<td class="month_noday">20</td>
+<td class="month_noday">21</td>
+<td class="month_noday">22</td>
+<td class="month_noday"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="calendar_month" valign="top">
+<div class="month_name">Июнь</div>
+<table class="month_frame">
+<tbody>
+<tr class="month_line">
+<td id="2015-6-01" class="month_day">1</td>
+<td id="2015-6-08" class="month_day">8</td>
+<td id="2015-6-15" class="month_day">15</td>
+<td id="2015-6-22" class="month_day">22</td>
+<td id="2015-6-29" class="month_day">29</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-6-02" class="f" title="Упосатха (полнолуние)">2</td>
+<td id="2015-6-09" class="q4" title="Упосатха (посл. четверть Луны)">9</td>
+<td id="2015-6-16" class="n" title="Упосатха (новолуние)">16</td>
+<td id="2015-6-23" class="month_day">23</td>
+<td id="2015-6-30" class="month_day">30</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-6-03" class="f" title="Упосатха (полнолуние)">3</td>
+<td id="2015-6-10" class="month_day">10</td>
+<td id="2015-6-17" class="n" title="Упосатха (новолуние)">17</td>
+<td id="2015-6-24" class="q1" title="Упосатха (первая четверть Луны)">24</td>
+<td class="month_noday"> </td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-6-04" class="month_day">4</td>
+<td id="2015-6-11" class="month_day">11</td>
+<td id="2015-6-18" class="month_day">18</td>
+<td id="2015-6-25" class="month_day">25</td>
+<td class="month_noday"> </td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-6-05" class="month_day">5</td>
+<td id="2015-6-12" class="month_day">12</td>
+<td id="2015-6-19" class="month_day">19</td>
+<td id="2015-6-26" class="month_day">26</td>
+<td class="month_noday"> </td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-6-06" class="month_day">6</td>
+<td id="2015-6-13" class="month_day">13</td>
+<td id="2015-6-20" class="month_day">20</td>
+<td id="2015-6-27" class="month_day">27</td>
+<td class="month_noday"> </td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-6-07" class="month_day">7</td>
+<td id="2015-6-14" class="month_day">14</td>
+<td id="2015-6-21" class="month_day">21</td>
+<td id="2015-6-28" class="month_day">28</td>
+<td class="month_noday"> </td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday">23</td>
+<td class="month_noday">24</td>
+<td class="month_noday">25</td>
+<td class="month_noday">26</td>
+<td class="month_noday">27</td>
+<td class="month_noday"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr class="calendar_line">
+<td class="calendar_month" valign="top">
+<div class="month_name">Июль</div>
+<table class="month_frame">
+<tbody>
+<tr class="month_line">
+<td class="week_day">Пн</td>
+<td class="month_noday"> </td>
+<td id="2015-7-06" class="month_day">6</td>
+<td id="2015-7-13" class="holiday" title="Обон – День Духов">13</td>
+<td id="2015-7-20" class="month_day">20</td>
+<td id="2015-7-27" class="month_day">27</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Вт</td>
+<td class="month_noday"> </td>
+<td id="2015-7-07" class="month_day">7</td>
+<td id="2015-7-14" class="month_day">14</td>
+<td id="2015-7-21" class="month_day">21</td>
+<td id="2015-7-28" class="month_day">28</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Ср</td>
+<td id="2015-7-01" class="f" title="Упосатха (полнолуние)">1</td>
+<td id="2015-7-08" class="q4" title="Упосатха (посл. четверть Луны)">8</td>
+<td id="2015-7-15" class="n" title="Упосатха (новолуние)">15</td>
+<td id="2015-7-22" class="month_day">22</td>
+<td id="2015-7-29" class="month_day">29</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Чт</td>
+<td id="2015-7-02" class="holiday" title="Асала – День Дхармы">2</td>
+<td id="2015-7-09" class="month_day">9</td>
+<td id="2015-7-16" class="n" title="Упосатха (новолуние)">16</td>
+<td id="2015-7-23" class="month_day">23</td>
+<td id="2015-7-30" class="month_day">30</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Пт</td>
+<td id="2015-7-03" class="month_day">3</td>
+<td id="2015-7-10" class="month_day">10</td>
+<td id="2015-7-17" class="month_day">17</td>
+<td id="2015-7-24" class="q1" title="Упосатха (первая четверть Луны)">24</td>
+<td id="2015-7-31" class="f" title="Упосатха (полнолуние)">31</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Сб</td>
+<td id="2015-7-04" class="month_day">4</td>
+<td id="2015-7-11" class="month_day">11</td>
+<td id="2015-7-18" class="month_day">18</td>
+<td id="2015-7-25" class="month_day">25</td>
+<td class="month_noday"> </td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Вс</td>
+<td id="2015-7-05" class="month_day">5</td>
+<td id="2015-7-12" class="month_day">12</td>
+<td id="2015-7-19" class="month_day">19</td>
+<td id="2015-7-26" class="month_day">26</td>
+<td class="month_noday"> </td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Нед.</td>
+<td class="month_noday">27</td>
+<td class="month_noday">28</td>
+<td class="month_noday">29</td>
+<td class="month_noday">30</td>
+<td class="month_noday">31</td>
+<td class="month_noday"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="calendar_month" valign="top">
+<div class="month_name">Август</div>
+<table class="month_frame">
+<tbody>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-8-03" class="month_day">3</td>
+<td id="2015-8-10" class="month_day">10</td>
+<td id="2015-8-17" class="month_day">17</td>
+<td id="2015-8-24" class="month_day">24</td>
+<td id="2015-8-31" class="month_day">31</td>
+</tr>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-8-04" class="month_day">4</td>
+<td id="2015-8-11" class="month_day">11</td>
+<td id="2015-8-18" class="month_day">18</td>
+<td id="2015-8-25" class="month_day">25</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-8-05" class="month_day">5</td>
+<td id="2015-8-12" class="month_day">12</td>
+<td id="2015-8-19" class="month_day">19</td>
+<td id="2015-8-26" class="month_day">26</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-8-06" class="month_day">6</td>
+<td id="2015-8-13" class="month_day">13</td>
+<td id="2015-8-20" class="month_day">20</td>
+<td id="2015-8-27" class="month_day">27</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-8-07" class="q4" title="Упосатха (посл. четверть Луны)">7</td>
+<td id="2015-8-14" class="n" title="Упосатха (новолуние)">14</td>
+<td id="2015-8-21" class="month_day">21</td>
+<td id="2015-8-28" class="month_day">28</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-8-01" class="f" title="Упосатха (полнолуние)">1</td>
+<td id="2015-8-08" class="month_day">8</td>
+<td id="2015-8-15" class="n" title="Упосатха (новолуние)">15</td>
+<td id="2015-8-22" class="q1" title="Упосатха (первая четверть Луны)">22</td>
+<td id="2015-8-29" class="f" title="Упосатха (полнолуние)">29</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-8-02" class="month_day">2</td>
+<td id="2015-8-09" class="month_day">9</td>
+<td id="2015-8-16" class="month_day">16</td>
+<td id="2015-8-23" class="month_day">23</td>
+<td id="2015-8-30" class="f" title="Упосатха (полнолуние)">30</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday">31</td>
+<td class="month_noday">32</td>
+<td class="month_noday">33</td>
+<td class="month_noday">34</td>
+<td class="month_noday">35</td>
+<td class="month_noday">36</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="calendar_month" valign="top">
+<div class="month_name">Сентябрь</div>
+<table class="month_frame">
+<tbody>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-9-07" class="month_day">7</td>
+<td id="2015-9-14" class="month_day">14</td>
+<td id="2015-9-21" class="q1" title="Упосатха (первая четверть Луны)">21</td>
+<td id="2015-9-28" class="f" style="box-shadow: inset 0 0 3px #000;" title="Упосатха (полнолуние). Полное лунное затмение">28</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-9-01" class="month_day">1</td>
+<td id="2015-9-08" class="month_day">8</td>
+<td id="2015-9-15" class="month_day">15</td>
+<td id="2015-9-22" class="month_day">22</td>
+<td id="2015-9-29" class="month_day">29</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-9-02" class="month_day">2</td>
+<td id="2015-9-09" class="month_day">9</td>
+<td id="2015-9-16" class="month_day">16</td>
+<td id="2015-9-23" class="month_day">23</td>
+<td id="2015-9-30" class="month_day">30</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-9-03" class="month_day">3</td>
+<td id="2015-9-10" class="month_day">10</td>
+<td id="2015-9-17" class="month_day">17</td>
+<td id="2015-9-24" class="month_day">24</td>
+<td class="month_noday"> </td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-9-04" class="month_day">4</td>
+<td id="2015-9-11" class="month_day">11</td>
+<td id="2015-9-18" class="month_day">18</td>
+<td id="2015-9-25" class="month_day">25</td>
+<td class="month_noday"> </td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-9-05" class="q4" title="Упосатха (посл. четверть Луны)">5</td>
+<td id="2015-9-12" class="n" title="Упосатха (новолуние)">12</td>
+<td id="2015-9-19" class="month_day">19</td>
+<td id="2015-9-26" class="month_day">26</td>
+<td class="month_noday"> </td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-9-06" class="month_day">6</td>
+<td id="2015-9-13" class="n" style="box-shadow: inset 0 0 3px #000;" title="Упосатха (новолуние). Частичное солнечное затмение">13</td>
+<td id="2015-9-20" class="month_day">20</td>
+<td id="2015-9-27" class="f" title="Упосатха (полнолуние)">27</td>
+<td class="month_noday"> </td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday">36</td>
+<td class="month_noday">37</td>
+<td class="month_noday">38</td>
+<td class="month_noday">39</td>
+<td class="month_noday">40</td>
+<td class="month_noday"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr class="calendar_line">
+<td class="calendar_month" valign="top">
+<div class="month_name">Октябрь</div>
+<table class="month_frame">
+<tbody>
+<tr class="month_line">
+<td class="week_day">Пн</td>
+<td class="month_noday"> </td>
+<td id="2015-10-05" class="q4" title="Упосатха (посл. четверть Луны)">5</td>
+<td id="2015-10-12" class="n" title="Упосатха (новолуние)">12</td>
+<td id="2015-10-19" class="month_day">19</td>
+<td id="2015-10-26" class="month_day">26</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Вт</td>
+<td class="month_noday"> </td>
+<td id="2015-10-06" class="month_day">6</td>
+<td id="2015-10-13" class="n" title="Упосатха (новолуние)">13</td>
+<td id="2015-10-20" class="month_day">20</td>
+<td id="2015-10-27" class="f" title="Упосатха (полнолуние)">27</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Ср</td>
+<td class="month_noday"> </td>
+<td id="2015-10-07" class="month_day">7</td>
+<td id="2015-10-14" class="month_day">14</td>
+<td id="2015-10-21" class="q1" title="Упосатха (первая четверть Луны)">21</td>
+<td id="2015-10-28" class="f" title="Упосатха (полнолуние)">28</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Чт</td>
+<td id="2015-10-01" class="month_day">1</td>
+<td id="2015-10-08" class="month_day">8</td>
+<td id="2015-10-15" class="month_day">15</td>
+<td id="2015-10-22" class="month_day">22</td>
+<td id="2015-10-29" class="month_day">29</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Пт</td>
+<td id="2015-10-02" class="month_day">2</td>
+<td id="2015-10-09" class="month_day">9</td>
+<td id="2015-10-16" class="month_day">16</td>
+<td id="2015-10-23" class="month_day">23</td>
+<td id="2015-10-30" class="month_day">30</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Сб</td>
+<td id="2015-10-03" class="month_day">3</td>
+<td id="2015-10-10" class="month_day">10</td>
+<td id="2015-10-17" class="month_day">17</td>
+<td id="2015-10-24" class="month_day">24</td>
+<td id="2015-10-31" class="month_day">31</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Вс</td>
+<td id="2015-10-04" class="month_day">4</td>
+<td id="2015-10-11" class="month_day">11</td>
+<td id="2015-10-18" class="month_day">18</td>
+<td id="2015-10-25" class="month_day">25</td>
+<td class="month_noday"> </td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="week_day">Нед.</td>
+<td class="month_noday">40</td>
+<td class="month_noday">41</td>
+<td class="month_noday">42</td>
+<td class="month_noday">43</td>
+<td class="month_noday">44</td>
+<td class="month_noday"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="calendar_month" valign="top">
+<div class="month_name">Ноябрь</div>
+<table class="month_frame">
+<tbody>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-11-02" class="month_day">2</td>
+<td id="2015-11-09" class="month_day">9</td>
+<td id="2015-11-16" class="month_day">16</td>
+<td id="2015-11-23" class="month_day">23</td>
+<td id="2015-11-30" class="month_day">30</td>
+</tr>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-11-03" class="q4" title="Упосатха (посл. четверть Луны)">3</td>
+<td id="2015-11-10" class="month_day">10</td>
+<td id="2015-11-17" class="month_day">17</td>
+<td id="2015-11-24" class="month_day">24</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-11-04" class="month_day">4</td>
+<td id="2015-11-11" class="n" title="Упосатха (новолуние)">11</td>
+<td id="2015-11-18" class="month_day">18</td>
+<td id="2015-11-25" class="f" title="Упосатха (полнолуние)">25</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-11-05" class="month_day">5</td>
+<td id="2015-11-12" class="n" title="Упосатха (новолуние)">12</td>
+<td id="2015-11-19" class="q1" title="Упосатха (первая четверть Луны)">19</td>
+<td id="2015-11-26" class="f" title="Упосатха (полнолуние)">26</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-11-06" class="month_day">6</td>
+<td id="2015-11-13" class="month_day">13</td>
+<td id="2015-11-20" class="month_day">20</td>
+<td id="2015-11-27" class="month_day">27</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-11-07" class="month_day">7</td>
+<td id="2015-11-14" class="month_day">14</td>
+<td id="2015-11-21" class="month_day">21</td>
+<td id="2015-11-28" class="month_day">28</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-11-01" class="month_day">1</td>
+<td id="2015-11-08" class="month_day">8</td>
+<td id="2015-11-15" class="month_day">15</td>
+<td id="2015-11-22" class="month_day">22</td>
+<td id="2015-11-29" class="month_day">29</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday">44</td>
+<td class="month_noday">45</td>
+<td class="month_noday">46</td>
+<td class="month_noday">47</td>
+<td class="month_noday">48</td>
+<td class="month_noday">49</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="calendar_month" valign="top">
+<div class="month_name">Декабрь</div>
+<table class="month_frame">
+<tbody>
+<tr class="month_line">
+<td class="month_noday"> </td>
+<td id="2015-12-07" class="month_day">7</td>
+<td id="2015-12-14" class="month_day">14</td>
+<td id="2015-12-21" class="month_day">21</td>
+<td id="2015-12-28" class="month_day">28</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-12-01" class="month_day">1</td>
+<td id="2015-12-08" class="holiday" title="Бодхи – День Просветления">8</td>
+<td id="2015-12-15" class="month_day">15</td>
+<td id="2015-12-22" class="month_day">22</td>
+<td id="2015-12-29" class="month_day">29</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-12-02" class="month_day">2</td>
+<td id="2015-12-09" class="month_day">9</td>
+<td id="2015-12-16" class="month_day">16</td>
+<td id="2015-12-23" class="month_day">23</td>
+<td id="2015-12-30" class="month_day">30</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-12-03" class="q4" title="Упосатха (посл. четверть Луны)">3</td>
+<td id="2015-12-10" class="month_day">10</td>
+<td id="2015-12-17" class="month_day">17</td>
+<td id="2015-12-24" class="month_day">24</td>
+<td id="2015-12-31" class="month_day">31</td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-12-04" class="month_day">4</td>
+<td id="2015-12-11" class="n" title="Упосатха (новолуние)">11</td>
+<td id="2015-12-18" class="q1" title="Упосатха (первая четверть Луны)">18</td>
+<td id="2015-12-25" class="f" title="Упосатха (полнолуние)">25</td>
+<td class="month_noday"> </td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-12-05" class="month_day">5</td>
+<td id="2015-12-12" class="n" title="Упосатха (новолуние)">12</td>
+<td id="2015-12-19" class="month_day">19</td>
+<td id="2015-12-26" class="f" title="Упосатха (полнолуние)">26</td>
+<td class="month_noday"> </td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td id="2015-12-06" class="month_day">6</td>
+<td id="2015-12-13" class="month_day">13</td>
+<td id="2015-12-20" class="month_day">20</td>
+<td id="2015-12-27" class="month_day">27</td>
+<td class="month_noday"> </td>
+<td class="month_noday"> </td>
+</tr>
+<tr class="month_line">
+<td class="month_noday">49</td>
+<td class="month_noday">50</td>
+<td class="month_noday">51</td>
+<td class="month_noday">52</td>
+<td class="month_noday">53</td>
+<td class="month_noday"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<div style="float: left;">
+<table class="calendar_frame">
+<tbody>
+<tr>
+<td class="legend">Март 20</td>
+<td class="legend">Полное солнечное затмение</td>
+</tr>
+<tr>
+<td class="legend">Апрель 4</td>
+<td class="legend">Частичное лунное затмение</td>
+</tr>
+<tr>
+<td class="legend">Сентябрь 13</td>
+<td class="legend">Частичное солнечное затмение</td>
+</tr>
+<tr>
+<td class="legend">Сентябрь 28</td>
+<td class="legend">Полное лунное затмение</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div style="float: right;">
+<table class="calendar_frame">
+<tbody>
+<tr>
+<td>Буддийский праздник  </td>
+<td class="holiday"> </td>
+</tr>
+<tr>
+<td class="legend" style="text-align: center;" colspan="2">Дни упосатхи:</td>
+</tr>
+<tr>
+<td>Новолуние</td>
+<td class="n"> </td>
+</tr>
+<tr>
+<td>1-я четверть</td>
+<td class="q1"> </td>
+</tr>
+<tr>
+<td>Полнолуние</td>
+<td class="f"> </td>
+</tr>
+<tr>
+<td>Посл. четверть</td>
+<td class="q4"> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div style="clear: both;"> </div>
+<hr />
+<p><strong>Упосатха</strong> – день интенсивной практики (медитация, даяние и пр.). Особое внимание Пяти предписаниям (см. <a href="/texts/61-five-trainings">Пять упражнений в осознанности</a>). Дополнительные обеты, например, <a href="/texts/160-8-vows" rel="alternate">Восемь обетов Махаяны</a>. Упосатху практикуют шесть дней в лунный месяц: два дня новолуния, два дня полнолуния, по одному дню на первую и последнюю четверти Луны.</p>
+<p><b>Буддийские праздники:</b></p>
+<table>
+<tbody>
+<tr>
+<td>Пн</td>
+<td>5 января 2015</td>
+<td>Махаянский Новый Год</td>
+</tr>
+<tr>
+<td>Вс</td>
+<td>15 февраля 2015</td>
+<td><a class="interwiki iw_wpru" title="http://ru.wikipedia.org/wiki/День Паринирваны" href="http://ru.wikipedia.org/wiki/День Паринирваны">День Паринирваны</a></td>
+</tr>
+<tr>
+<td>Чт</td>
+<td>19 февраля 2015</td>
+<td>Китайский Новый Год</td>
+</tr>
+<tr>
+<td>Чт</td>
+<td>5 марта 2015</td>
+<td><a class="interwiki iw_wpru" title="http://ru.wikipedia.org/wiki/Макха Буча" href="http://ru.wikipedia.org/wiki/Макха Буча">Макха Буча</a></td>
+</tr>
+<tr>
+<td>Сб</td>
+<td>4 апреля 2015</td>
+<td>Новый год стран Тхеравады</td>
+</tr>
+<tr>
+<td>Пн</td>
+<td>4 мая 2015</td>
+<td><a class="interwiki iw_wpru" title="http://ru.wikipedia.org/wiki/Весак" href="http://ru.wikipedia.org/wiki/Весак">Весак</a> – День Будды</td>
+</tr>
+<tr>
+<td>Чт</td>
+<td class="col1 leftalign">2 июля 2015</td>
+<td class="col2 leftalign">Асала – День Дхармы</td>
+</tr>
+<tr>
+<td class="legend" colspan="3">Асала – День Дхармы – праздник «поворота колеса Учения» – первой проповеди Будды. Отмечается в июльское полнолуние. Это начало сезона дождей в Непале, в это время Будда и его последователи переходили от странствий к медитациям.</td>
+</tr>
+<tr>
+<td>Пн</td>
+<td>13 июля 2015</td>
+<td><a class="interwiki iw_wpru" title="http://ru.wikipedia.org/wiki/Обон (праздник)" href="http://ru.wikipedia.org/wiki/Обон (праздник)">Обон</a> – День Духов (предков и т.п.)</td>
+</tr>
+<tr>
+<td>Вт</td>
+<td>8 декабря 2015</td>
+<td><a class="interwiki iw_wp" title="http://en.wikipedia.org/wiki/Bodhi Day" href="http://en.wikipedia.org/wiki/Bodhi Day">Bodhi Day</a> – День Просветления</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p>Источники:<br /> <a title="http://www.datemoz.com/" href="http://www.datemoz.com/" rel="nofollow">http://www.datemoz.com/</a> - календарь на год<br /> <a title="http://www.calendarlabs.com" href="http://www.calendarlabs.com" rel="nofollow">http://www.calendarlabs.com</a> - луна и буддийские<br /> <a title="http://en.wikipedia.org/wiki/Buddhist_calendar" href="http://en.wikipedia.org/wiki/Buddhist_calendar" rel="nofollow">http://en.wikipedia.org/wiki/Buddhist_calendar</a><br /> <a title="https://en.wikipedia.org/wiki/Uposatha" href="https://en.wikipedia.org/wiki/Uposatha" rel="nofollow">https://en.wikipedia.org/wiki/Uposatha</a> - Упосатха.</p>
+<p>(Дни Упосатхи рассчитаны по московскому времени, в некоторых случаях даты в других часовых поясах могут сдвигаться).</p>
+<p> </p></main><a class="top" href="#top">▲</a>
+</body>
+</html>

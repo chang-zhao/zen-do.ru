@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <title>Русское Дзендо</title>
+  <meta name="description" content="Дзенская практика на русском языке">
+  <meta name="author" content="Постоянное Озарение">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+<nav>
+<a href="/">Что</a>
+<a href="/q-a">Вопросы</a>
+<a href="/guide">Путеводитель</a>
+<a href="/texts">Тексты</a>
+<a href="/video">Видео</a>
+<a href="/blog">Дневник</a>
+</nav>
+<main><span id="language"></span> <span id="modified">v. 2019-01-31</span>
+<h2 id="author">Постоянное Озарение</h2>
+<h1 id="title">Саймон Чайлд</h1>
+<p><img style="float: right; margin-left: 12px;" src="/images/simon-child.jpg" alt="Саймон Чайлд" /> Мастер Саймон Чайлд, Учитель Западного Чаньского Товарищества (<a href="http://www.westernchanfellowship.org/" rel="alternate">Western Chan Fellowship</a>), третий наследник Дхармы чаньского Мастера <a href="/teachers/83-sheng-yen" rel="alternate">Шен Яня</a>.</p>
+<p>По профессии врач-терапевт, сейчас работает часть времени в британском государственном здравоохранении как советник по клинической информатике. Саймон женат, отец двоих взрослых сыновей.</p>
+<p>Более тридцати лет Саймон Чайлд упражнялся под руководством <a href="/teachers/79-john-crook" rel="alternate">Джона Крука</a> и Мастера Шен Яня. Был секретарём Западного Чаньского Товарищества с момента основания до назначения Учителем в 2011 году.</p>
+<p>Унаследовал Дхарму линий Цаодун и Линьцзи от Мастера Шен Яня в 2000 году, получив имя Цзинхун Чуаньфа – Чистое Величие, Передающее Учение.</p>
+<p> </p>
+<blockquote>
+<p>На сайте <a title="Русское Дзендо" href="https://zen-do.ru/" rel="alternate">Zen-Do.Ru</a> есть следующие работы Мастера Саймона Чайлда:</p>
+<p> </p>
+<blockquote>{articles cat:title:texts,video}{if:created_by_alias='Саймон Чайлд'}- {link}{title}{/link}<br />{/if} {/articles}</blockquote>
+</blockquote>
+<hr /></main><a class="top" href="#top">▲</a>
+</body>
+</html>

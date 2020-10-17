@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <title>Русское Дзендо</title>
+  <meta name="description" content="Дзенская практика на русском языке">
+  <meta name="author" content="Постоянное Озарение">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+<nav>
+<a href="/">Что</a>
+<a href="/q-a">Вопросы</a>
+<a href="/guide">Путеводитель</a>
+<a href="/texts">Тексты</a>
+<a href="/video">Видео</a>
+<a href="/blog">Дневник</a>
+</nav>
+<main><span id="language"></span> <span id="modified">v. 2019-08-16</span>
+<h2 id="author">Де Джин</h2>
+<h1 id="title">Дзен Мастера Де Джина</h1>
+<h1 style="text-align: center;">Дзен Мастера Де Джина</h1>
+<p style="text-align: center;">Беседа настоятеля храма Мусанса (Musangsa) <a href="/teachers/106-dae-jin-sunim" rel="alternate">Мастера Де Джина</a>, 14.06.2013</p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/_L49I93DZv4?rel=0&amp;ecver=1" width="425" height="350"></iframe></p>
+<p style="text-align: center;"> </p>
+<div class="li" style="text-align: center;"><iframe src="https://www.youtube.com/embed/gpQzLUdKjXs" width="425" height="350"></iframe></div>
+<div class="li" style="text-align: center;"> </div>
+<div class="li" style="text-align: center;"> </div>
+<div class="li" style="text-align: center;"><iframe src="https://www.youtube.com/embed/Dec1ZXatlg0" width="425" height="350"></iframe></div>
+<div class="li" style="text-align: center;"> </div></main><a class="top" href="#top">▲</a>
+</body>
+</html>

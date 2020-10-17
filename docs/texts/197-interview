@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <title>Русское Дзендо</title>
+  <meta name="description" content="Дзенская практика на русском языке">
+  <meta name="author" content="Постоянное Озарение">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+<nav>
+<a href="/">Что</a>
+<a href="/q-a">Вопросы</a>
+<a href="/guide">Путеводитель</a>
+<a href="/texts">Тексты</a>
+<a href="/video">Видео</a>
+<a href="/blog">Дневник</a>
+</nav>
+<main><span id="language"></span> <span id="modified">v. 2017-09-17</span>
+<h2 id="author">Постоянное Озарение</h2>
+<h1 id="title">Интервью</h1>
+<h3 style="text-align: right;"><a href="/teachers/100-illumination" rel="alternate">Постоянное Озарение</a></h3>
+<h1 style="text-align: center;">Интервью</h1>
+<hr />
+<p>Интервью буддийского учителя <em>Постоянного Озарения</em> для сайта <a href="http://oson.in/portal/" rel="alternate">oson.in</a> (январь 2017):</p>
+<p><a href="http://oson.in/portal/?p=246" rel="alternate">Встречи с буддийским учителем (Часть I)</a></p>
+<p><a href="http://oson.in/portal/?p=252" rel="alternate">Встречи с буддийским учителем (беседа II)</a></p>
+<p> </p></main><a class="top" href="#top">▲</a>
+</body>
+</html>
