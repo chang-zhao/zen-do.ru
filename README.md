@@ -18,6 +18,6 @@ For example, with `phpMyAdmin` export Joomla site table `<prefix>_content` to JS
 
 (2) Run `extract.php` from this repository, it would read the JSON file line by line, writing the data in separate HTML files, with directory structure according to categories. See `extract.php` for details and tune its options (input file name, categories names etc.).
 
-(3) Run wrap.sh to wrap the files in header-&-footer template (static HTML). Input dir "/in", output dir "docs".
+(3) Run wrap.sh to wrap the files in header-&-footer template (static HTML). Input dir "/in", output dir "/docs".
 
 (4) **ToDo**: How to automatically list articles in categories, show as blogs etc. I think just static HTML + AJAX should work. Maybe GitHub actions would help to minimize data processing by updating info on `git pull` events (e.g. creating lists of files in categories etc.).
