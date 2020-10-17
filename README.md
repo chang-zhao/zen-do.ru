@@ -8,16 +8,21 @@ When the main site https://zen-do.ru/ does not work, come here:
 
 # https://s.zen-do.ru/
 
-# The Procedure _(work in progress)_
+# How to convert articles from Joomla to static HTML
 
-How to convert articles from Joomla (or othe DB-based engine) to Static HTML files:
+_(Work in progress)_
+
+How to convert articles from Joomla (or other DB-based engine) to Static HTML files, in folders according to categories structure:
 
 (1) Export articles from the database.
 
-For example, with `phpMyAdmin` export Joomla site table `<prefix>_content` to JSON file. Edit it manually as needed.
+For example, with `phpMyAdmin` export Joomla site table `<prefix>_content` to JSON file `articles.json`. Edit that file manually as needed.
 
-(2) Run `extract.php` from this repository, it would read the JSON file line by line, writing the data in separate HTML files, with directory structure according to categories. See `extract.php` for details and tune its options (input file name, categories names etc.).
+(2) Run `extract.php` from this repository, it would read the JSON file line by line, writing the data in separate HTML files, with directory structure according to that web site categories. See `extract.php` for details and edit it to set the options (input file name, output directory, categories names).
 
-(3) Run wrap.sh to wrap the files in header-&-footer template (static HTML). Input dir "/in", output dir "/docs".
+(3) Run `wrap.sh` to wrap the files into static HTML template (header & footer, see `/tpl`).
 
-(4) **ToDo**: How to automatically list articles in categories, show as blogs etc. I think just static HTML + AJAX should work. Maybe GitHub actions would help to minimize data processing by updating info on `git pull` events (e.g. creating lists of files in categories etc.).
+  * Input files directory "/in",
+  * output files directory "/docs".
+
+(4) **ToDo**: Automatically list articles in categories, show them as blogs etc. I think just static HTML + AJAX should work fine. Also GitHub actions could help to minimize data processing, by updating info on `git pull` events (e.g. creating lists of files in categories; lists of articles belonging to particular authors).
