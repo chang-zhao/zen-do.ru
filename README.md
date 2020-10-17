@@ -16,11 +16,9 @@ How to convert articles from Joomla (or other DB-based engine) to Static HTML fi
 
 (1) Export articles from the database.
 
-For example, with `phpMyAdmin` export Joomla site table `<prefix>_content` to JSON file `articles.json`. Edit that file manually as needed (or modify its processing script).
+For example, with `phpMyAdmin` export Joomla site table `<prefix>_content` to JSON file `articles.json`. Edit that file manually as needed (or modify its processing script). Raw exported file:
 
 ```
-Raw exported file:
-
 [
 {"type":"header","version":"4.8.3","comment":"Export to JSON plugin for PHPMyAdmin"},
 {"type":"database","name":"joomla"},
@@ -31,12 +29,15 @@ Raw exported file:
 ]
 }
 ]
+```
 
 Edited:
 
+```
 {"id":"1", ...}
 {"id":"2", ...}
-...```
+...
+```
 
 (2) Run `extract.php` from this repository, it would read the JSON file line by line, writing the data in separate HTML files, with directory structure according to that web site categories. See `extract.php` for details and edit it to set the options (input file name, output directory, categories names).
 
