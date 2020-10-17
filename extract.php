@@ -1,7 +1,7 @@
 <?php
 /**	Import articles from JSON table (from Joomla web site: MySQL => JSON => this PHP)
 
-DB "joo". Table "d0_content". Fields:
+Table "#__content". Fields:
 
 id			Порядковый номер
 title			Полное название
