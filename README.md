@@ -20,4 +20,4 @@ For example, with `phpMyAdmin` export Joomla site table `<prefix>_content` to JS
 
 (3) Run wrap.sh to wrap the files in header-&-footer template (static HTML). Input dir "/in", output dir "docs".
 
-(4) **ToDo**: List categories, blogs etc. Static HTML + Javascript should work. Maybe GitHub actions to update info on changes.
+(4) **ToDo**: How to automatically list articles in categories, show as blogs etc. I think just static HTML + AJAX should work. Maybe GitHub actions would help to minimize data processing by updating info on `git pull` events (e.g. creating lists of files in categories etc.).
